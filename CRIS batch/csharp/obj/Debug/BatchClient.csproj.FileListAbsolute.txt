@@ -1,0 +1,12 @@
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\BatchClient.exe.config
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\BatchClient.exe
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\BatchClient.pdb
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.csprojResolveAssemblyReference.cache
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.csproj.CoreCompileInputs.cache
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.csproj.CopyComplete
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.exe
+C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.pdb
