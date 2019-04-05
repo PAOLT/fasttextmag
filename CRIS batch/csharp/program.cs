@@ -24,11 +24,11 @@ namespace BatchClient
 
         // recordings and locale
         private const string Locale = "en-GB";
-        private const string RecordingsBlobUri = "https://paoltblob.blob.core.windows.net/s2t/madelin.wma?sp=r&st=2019-03-18T14:07:13Z&se=2019-03-18T22:07:13Z&spr=https&sv=2018-03-28&sig=CeXezt3OXmUwWZWOXSDneXR3F/Geb7cPSmZdzKdSJBE=&sr=b";
+        private const string RecordingsBlobUri = "https://paoltblob.blob.core.windows.net/s2t/consilium6.wma?sp=r&st=2019-04-05T13:56:15Z&se=2019-04-05T21:56:15Z&spr=https&sv=2018-03-28&sig=X%2Buxilck9ulFW6n%2Fxw7zilkTzqGWaiSA4IBP4UVjQXQ%3D&sr=b";
         //private const string RecordingsBlobUri = "https://paoltblob.blob.core.windows.net/s2t/whatstheweatherlike.wav?sp=r&st=2019-03-18T09:17:40Z&se=2019-03-18T17:17:40Z&spr=https&sv=2018-03-28&sig=9saOYYnf9MxMhJhdl4N67HfcqjbD6l1w%2Fdob4X31Sco%3D&sr=b";
 
         // For usage of baseline models, no acoustic and language model needs to be specified.
-        //private static Guid[] modelList = new Guid[0];
+        private static Guid[] modelList = new Guid[0];
 
         // For use of specific acoustic and language models:
         // - comment the previous line
@@ -37,8 +37,8 @@ namespace BatchClient
         // private static Guid AdaptedLanguageId = new Guid("<id of the custom language model>");
         // private static Guid[] modelList = new[] { AdaptedAcousticId, AdaptedLanguageId };
 
-        private static Guid AdaptedLanguageId = new Guid("cb82ab19-d3f0-4454-a6ad-353df0c0f002");
-        private static Guid[] modelList = new[] { AdaptedLanguageId };
+        //private static Guid AdaptedLanguageId = new Guid("cb82ab19-d3f0-4454-a6ad-353df0c0f002");
+        //private static Guid[] modelList = new[] { AdaptedLanguageId };
 
         //name and description
         private const string Name = "myTranscription";
@@ -113,6 +113,7 @@ namespace BatchClient
 
                                 WebClient webClient = new WebClient();
 
+                                // Path = C:\Users\sa\AppData\Local\Temp\2
                                 var filename = Path.GetTempFileName();
                                 webClient.DownloadFile(resultsUri, filename);
 

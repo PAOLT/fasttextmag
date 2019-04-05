@@ -10,3 +10,15 @@ C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-sp
 C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.csproj.CopyComplete
 C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.exe
 C:\Users\ad\Downloads\cognitive-services-speech-sdk-master\cognitive-services-speech-sdk-master\samples\batch\csharp\obj\Debug\BatchClient.pdb
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\BatchClient.exe.config
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\BatchClient.exe
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\BatchClient.pdb
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\obj\Debug\BatchClient.csprojAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\obj\Debug\BatchClient.csproj.CoreCompileInputs.cache
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\obj\Debug\BatchClient.csproj.CopyComplete
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\obj\Debug\BatchClient.exe
+C:\Users\sa\Documents\GitHub\fasttextmag\CRIS batch\csharp\obj\Debug\BatchClient.pdb
