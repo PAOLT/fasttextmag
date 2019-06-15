@@ -1,0 +1,1754 @@
+{
+  "AudioFileResults": [
+    {
+      "AudioFileName": "Channel.0.wav",
+      "AudioFileUrl": null,
+      "SegmentResults": [
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 9100000,
+          "Duration": 271500000,
+          "NBest": [
+            {
+              "Confidence": 0.878085,
+              "Lexical": "let's move to the program and i have pleasure to introduce our first speaker doctor robert madelin and this first talk as a keynote talk robert is from four site international policy and regulatory advisors which is public affairs consultancy organization and he's also visiting fellow at oxford university centre for technology in global affairs",
+              "ITN": "let's move to the program and I have pleasure to introduce our first speaker doctor Robert madelin and this first talk as a keynote talk Robert is from 4 site international policy and regulatory advisors which is public affairs consultancy organization and he's also visiting fellow at Oxford University centre for technology in global affairs",
+              "MaskedITN": "let's move to the program and I have pleasure to introduce our first speaker doctor Robert madelin and this first talk as a keynote talk Robert is from 4 site international policy and regulatory advisors which is public affairs consultancy organization and he's also visiting fellow at Oxford University centre for technology in global affairs",
+              "Display": "Let's move to the program and I have pleasure to introduce our first Speaker Doctor Robert Madelin and this first talk as a keynote talk. Robert is from 4 site. International policy and Regulatory Advisors, which is public affairs consultancy organization and he's also visiting fellow at Oxford University Centre for technology in global affairs.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 290800000,
+          "Duration": 96200000,
+          "NBest": [
+            {
+              "Confidence": 0.87061,
+              "Lexical": "and the title of roberts talk is evidence we can believe in trust and value in the data age so welcome to the floor",
+              "ITN": "and the title of Roberts talk is evidence we can believe in trust and value in the data age so welcome to the floor",
+              "MaskedITN": "and the title of Roberts talk is evidence we can believe in trust and value in the data age so welcome to the floor",
+              "Display": "And the title of Roberts talk is evidence. We can believe in trust and value in the data age, so welcome to the floor.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 402600000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.882972,
+              "Lexical": "okay thank you very much ladies and gentlemen congratulations both on being up so early in the morning and choosing the most important breakout session parma is not the only beautiful city in europe in brussels you can see this beautiful are nouvel sculpture which i used to walk past when i worked for european commission every morning and which",
+              "ITN": "okay thank you very much ladies and gentlemen congratulations both on being up so early in the morning and choosing the most important breakout session Parma is not the only beautiful city in Europe in Brussels you can see this beautiful are nouvel sculpture which I used to walk past when I worked for European Commission every morning and which",
+              "MaskedITN": "okay thank you very much ladies and gentlemen congratulations both on being up so early in the morning and choosing the most important breakout session Parma is not the only beautiful city in Europe in Brussels you can see this beautiful are nouvel sculpture which I used to walk past when I worked for European Commission every morning and which",
+              "Display": "Okay, thank you very much ladies and gentlemen congratulations both on being up so early in the morning and choosing the most important breakout session. Parma is not the only beautiful city in Europe in Brussels. You can see this beautiful are Nouvel Sculpture, which I used to walk past when I worked for European Commission every morning and which.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 711000000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.907098,
+              "Lexical": "then whatever world of public good creation we work you can take the horse to water but you can't make it drink and one of the things which i want to do as a non scientist and a non techie before we begin to dive into data and evidence in the data ages to remind us of what those of you were here on the first day we have heard which is if the data creates evidence that people don't believe in it will have no positive effect in soc so i'm going to",
+              "ITN": "then whatever world of public good creation we work you can take the horse to water but you can't make it drink and one of the things which I want to do as a non scientist and a non techie before we begin to dive into data and evidence in the data ages to remind us of what those of you were here on the first day we have heard which is if the data creates evidence that people don't believe in it will have no positive effect in soc so I'm going to",
+              "MaskedITN": "then whatever world of public good creation we work you can take the horse to water but you can't make it drink and one of the things which I want to do as a non scientist and a non techie before we begin to dive into data and evidence in the data ages to remind us of what those of you were here on the first day we have heard which is if the data creates evidence that people don't believe in it will have no positive effect in soc so I'm going to",
+              "Display": "Then whatever world of public good creation. We work you can take the horse to water. But you can't make it drink and one of the things which I want to do as a non scientist and a non techie before we begin to dive into data and evidence in the data ages to remind us of what those of you were here on the first day we have heard which is if the data creates evidence that people don't believe in it will have no positive effect in soc so I'm going to.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 1019000000,
+          "Duration": 91500000,
+          "NBest": [
+            {
+              "Confidence": 0.921919,
+              "Lexical": "what about data but about sustainability innovation trust risk a little bit about efsa and a little bit about the opportunities offered by tool",
+              "ITN": "what about data but about sustainability innovation trust risk a little bit about EFSA and a little bit about the opportunities offered by tool",
+              "MaskedITN": "what about data but about sustainability innovation trust risk a little bit about EFSA and a little bit about the opportunities offered by tool",
+              "Display": "What about data but about sustainability innovation trust risk a little bit about EFSA and a little bit about the opportunities offered by tool.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 1119600000,
+          "Duration": 7000000,
+          "NBest": [
+            {
+              "Confidence": 0.0663201,
+              "Lexical": "um",
+              "ITN": "um",
+              "MaskedITN": "um",
+              "Display": "Um.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 1139600000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.913565,
+              "Lexical": "the disclosures that i admit to our i do since retiring from the commission a bit of academic work a bit of public policy consulting a bit of not for profit advisory the thing which i'm too ashamed to disclose is i've actually never done science i didn't get to do a single year biology ever in my life so you can imagine that when i was the dg working with efsa i was learning a lot and the slides are probably too numerous and it's too early in the",
+              "ITN": "the disclosures that I admit to our I do since retiring from the Commission a bit of academic work a bit of public policy consulting a bit of not for profit advisory the thing which I'm too ashamed to disclose is I've actually never done science I didn't get to do a single year biology ever in my life so you can imagine that when I was the DG working with EFSA I was learning a lot and the slides are probably too numerous and it's too early in the",
+              "MaskedITN": "the disclosures that I admit to our I do since retiring from the Commission a bit of academic work a bit of public policy consulting a bit of not for profit advisory the thing which I'm too ashamed to disclose is I've actually never done science I didn't get to do a single year biology ever in my life so you can imagine that when I was the DG working with EFSA I was learning a lot and the slides are probably too numerous and it's too early in the",
+              "Display": "The disclosures that I admit to our I do since retiring from the Commission. A bit of academic work. A bit of public policy consulting a bit of not for profit advisory. The thing which I'm too ashamed to disclose is I've actually never done science. I didn't get to do a single year biology ever in my life so you can imagine that when I was the DG working with EFSA. I was learning. A lot and the slides are probably too numerous and it's too early in the.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 1755600000,
+          "Duration": 171900000,
+          "NBest": [
+            {
+              "Confidence": 0.904807,
+              "Lexical": "look this is the time of promise as well as parrel we mustn't be scared of all the changes going on because if we as human society know what we want a time of turmoil is the best time to get what we want if we don't know what we want we are a cork in the stream",
+              "ITN": "look this is the time of promise as well as parrel we mustn't be scared of all the changes going on because if we as human society know what we want a time of turmoil is the best time to get what we want if we don't know what we want we are a Cork in the stream",
+              "MaskedITN": "look this is the time of promise as well as parrel we mustn't be scared of all the changes going on because if we as human society know what we want a time of turmoil is the best time to get what we want if we don't know what we want we are a Cork in the stream",
+              "Display": "Look this is the time of promise as well as Parrel. We mustn't be scared of all the changes going on because if we, as human society know what we want a time of turmoil is the best time to get what we want if we don't know what we want we are a Cork in the stream.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 1939200000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.901165,
+              "Lexical": "so food safety science is key the fact that there are big issues out there doesn't mean that we are not crucial to achieving them and actually on the country we need to sell to others who think it's all about something else how important our work is and we must above all so here i want to pay tribute to those who do this in efsa stand up for science and truth and we think the post truth society comes now when francis bacon wrote his i think still seminal",
+              "ITN": "so food safety science is key the fact that there are big issues out there doesn't mean that we are not crucial to achieving them and actually on the country we need to sell to others who think it's all about something else how important our work is and we must above all so here I want to pay tribute to those who do this in EFSA stand up for science and truth and we think the post truth society comes now when Francis Bacon wrote his I think still seminal",
+              "MaskedITN": "so food safety science is key the fact that there are big issues out there doesn't mean that we are not crucial to achieving them and actually on the country we need to sell to others who think it's all about something else how important our work is and we must above all so here I want to pay tribute to those who do this in EFSA stand up for science and truth and we think the post truth society comes now when Francis Bacon wrote his I think still seminal",
+              "Display": "So food safety science is key. The fact that there are big issues out there doesn't mean that we are not crucial to achieving them and actually on the country. We need to sell to others who think it's all about something else. How important our work is and we must above all, so here. I want to pay tribute to those who do this in EFSA stand up for Science and truth and we think the Post Truth Society comes now when Francis Bacon wrote his I think still seminal.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 2247800000,
+          "Duration": 299100000,
+          "NBest": [
+            {
+              "Confidence": 0.889036,
+              "Lexical": "introduced it with a reference to pontius pilate who is kind of the donald trump of the gospel ihrer and who himself was not very concerned about truth but was concerned about power and then what bacon said which i think is crucial is that even if you are a food safety authority truth is the daughter of time not of authoritie so we need both to stand up for truth and science and do it with humility and that we've been talking about as we go along",
+              "ITN": "introduced it with a reference to pontius pilate who is kind of the Donald Trump of the gospel ihrer and who himself was not very concerned about truth but was concerned about power and then what bacon said which I think is crucial is that even if you are a food safety authority truth is the daughter of time not of authoritie so we need both to stand up for truth and science and do it with humility and that we've been talking about as we go along",
+              "MaskedITN": "introduced it with a reference to pontius pilate who is kind of the Donald Trump of the gospel ihrer and who himself was not very concerned about truth but was concerned about power and then what bacon said which I think is crucial is that even if you are a food safety authority truth is the daughter of time not of authoritie so we need both to stand up for truth and science and do it with humility and that we've been talking about as we go along",
+              "Display": "Introduced it with a reference to Pontius Pilate, who is kind of the Donald Trump of the gospel ihrer and who himself was not very concerned about truth, but was concerned about power and then what Bacon said, which I think is crucial is that even if you are a Food Safety Authority Truth is the daughter of time. Not of Authoritie. So we need both to stand up for truth and science and do it with humility and that we've been talking about as we go along.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 2557900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.901199,
+              "Lexical": "third introductory point even in the data and evidence age evidence for food safety is the same set of challenges as everybody else is facing in the digital in data rage so any problem efsa faces is going to be easier to fix in the right way if you're talking to everybody else about it i think that matter who gets his pre disesa deserves a lot of credit when hoover deloitte has set up the eu answer network thinking about risk assessment science across the agency",
+              "ITN": "third introductory point even in the data and evidence age evidence for food safety is the same set of challenges as everybody else is facing in the digital in data rage so any problem EFSA faces is going to be easier to fix in the right way if you're talking to everybody else about it I think that matter who gets his pre disesa deserves a lot of credit when Hoover Deloitte has set up the EU answer network thinking about risk assessment science across the agency",
+              "MaskedITN": "third introductory point even in the data and evidence age evidence for food safety is the same set of challenges as everybody else is facing in the digital in data rage so any problem EFSA faces is going to be easier to fix in the right way if you're talking to everybody else about it I think that matter who gets his pre disesa deserves a lot of credit when Hoover Deloitte has set up the EU answer network thinking about risk assessment science across the agency",
+              "Display": "Third introductory point even in the data and evidence age evidence for food. Safety is the same set of challenges as everybody else is facing in the digital in data rage, so any problem. EFSA faces is going to be easier to fix in the right way. If you're talking to everybody else about it. I think that matter who gets his pre. Disesa deserves a lot of credit when Hoover Deloitte has set up the EU answer network thinking about risk assessment science across the agency.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 2865900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.879658,
+              "Lexical": "need a similar data and evidence management it cio network rather urgently so this is the sort of slide that people like coz it's a picture and it's to remind you that the sustainability pillar you need to relate to is not all just about food but i would say that if you look at all the seventeen global goals the un's adopted probably getting efsa's mandate right",
+              "ITN": "need a similar data and evidence management it CIO network rather urgently so this is the sort of slide that people like coz it's a picture and it's to remind you that the sustainability pillar you need to relate to is not all just about food but I would say that if you look at all the 17 global goals the un's adopted probably getting efsa's mandate right",
+              "MaskedITN": "need a similar data and evidence management it CIO network rather urgently so this is the sort of slide that people like coz it's a picture and it's to remind you that the sustainability pillar you need to relate to is not all just about food but I would say that if you look at all the 17 global goals the un's adopted probably getting efsa's mandate right",
+              "Display": "Need a similar data and evidence management it. CIO network rather urgently so this is the sort of slide that people like coz. It's a picture and it's to remind you that the sustainability pillar. You need to relate to is not all just about food. But I would say that if you look at all. The 17 global goals. The un's adopted probably getting Efsa's mandate right.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 3173900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.89675,
+              "Lexical": "but just is it in the first session that some of you will have missed we were hearing from fern wickham that you need to think about at least know about what a feminist risk assessment agenda might be and that's the first time i've heard about it i think that a challenge we should all set ourselves in the world today is i know i relate to i don't know s d g three health and well being i know i relate to zero hunger but what if i",
+              "ITN": "but just is it in the first session that some of you will have missed we were hearing from Fern Wickham that you need to think about at least know about what a feminist risk assessment agenda might be and that's the first time I've heard about it I think that a challenge we should all set ourselves in the world today is I know I relate to I don't know SDG 3 health and well being I know I relate to zero hunger but what if I",
+              "MaskedITN": "but just is it in the first session that some of you will have missed we were hearing from Fern Wickham that you need to think about at least know about what a feminist risk assessment agenda might be and that's the first time I've heard about it I think that a challenge we should all set ourselves in the world today is I know I relate to I don't know SDG 3 health and well being I know I relate to zero hunger but what if I",
+              "Display": "But just is it in the first session that some of you will have missed we were hearing from Fern. Wickham that you need to think about at least know about what a feminist risk assessment agenda might be and that's the first time I've heard about it. I think that a challenge. We should all set ourselves in the world. Today is I know I relate to. I don't know. SDG 3 health and well being. I know I relate to zero hunger, but what if I.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 3481900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.927082,
+              "Lexical": "to relate to some of these other issues how would they relate to my food chain risk assessment world similarly with innovation we all think that innovation is mainly at four o'clock technological innovation what comes out of the labs of the big food processing companies and we also think sometimes it's disruptive think about insects we have to eat but actually innovation is very very very diverse and we need to engage with all that innovation both be",
+              "ITN": "to relate to some of these other issues how would they relate to my food chain risk assessment world similarly with innovation we all think that innovation is mainly at 4 o'clock technological innovation what comes out of the labs of the big food processing companies and we also think sometimes it's disruptive think about insects we have to eat but actually innovation is very very very diverse and we need to engage with all that innovation both be",
+              "MaskedITN": "to relate to some of these other issues how would they relate to my food chain risk assessment world similarly with innovation we all think that innovation is mainly at 4 o'clock technological innovation what comes out of the labs of the big food processing companies and we also think sometimes it's disruptive think about insects we have to eat but actually innovation is very very very diverse and we need to engage with all that innovation both be",
+              "Display": "To relate to some of these other issues? How would they relate to my food chain risk assessment world. Similarly, with innovation. We all think that innovation is mainly at 4 o'clock technological innovation? What comes out of the labs of the big food processing companies and we also think sometimes it's disruptive think about insects. We have to eat, but actually innovation is very, very, very diverse and we need to engage with all that innovation both be.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 3789900000,
+          "Duration": 55000000,
+          "NBest": [
+            {
+              "Confidence": 0.920602,
+              "Lexical": "will be a source of risk and because it can be a source of changing the food chain",
+              "ITN": "will be a source of risk and because it can be a source of changing the food chain",
+              "MaskedITN": "will be a source of risk and because it can be a source of changing the food chain",
+              "Display": "Will be a source of risk and because it can be a source of changing the food chain?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 3854800000,
+          "Duration": 65500000,
+          "NBest": [
+            {
+              "Confidence": 0.881081,
+              "Lexical": "i wrote along and so far yet half implemented report on innovation when i left the commission in twenty",
+              "ITN": "I wrote along and so far yet half implemented report on innovation when I left the Commission in 20",
+              "MaskedITN": "I wrote along and so far yet half implemented report on innovation when I left the Commission in 20",
+              "Display": "I wrote along and so far, yet half implemented report on innovation when I left the Commission in 20.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 3930900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.89871,
+              "Lexical": "those are the headlines and that's the title and the link which still works and it's for free so i don't want to talk more about innovation but simply to say sustainability and innovation of the two pillars to think about so trust when we have these nice new shiny tools we face the same problem that we face forever in efsa ring before efsa that data and data innovation and new ways of gathering data will be mistrusted and we tend to think that's so unfair we've worked on this week",
+              "ITN": "those are the headlines and that's the title and the link which still works and it's for free so I don't want to talk more about innovation but simply to say sustainability and innovation of the 2 pillars to think about so trust when we have these nice new shiny tools we face the same problem that we face forever in EFSA ring before EFSA that data and data innovation and new ways of gathering data will be mistrusted and we tend to think that's so unfair we've worked on this week",
+              "MaskedITN": "those are the headlines and that's the title and the link which still works and it's for free so I don't want to talk more about innovation but simply to say sustainability and innovation of the 2 pillars to think about so trust when we have these nice new shiny tools we face the same problem that we face forever in EFSA ring before EFSA that data and data innovation and new ways of gathering data will be mistrusted and we tend to think that's so unfair we've worked on this week",
+              "Display": "Those are the headlines and that's the title and the link which still works and it's for free. So I don't want to talk more about innovation, but simply to say sustainability and innovation of the 2 pillars to think about so trust when we have these nice new shiny tools. We face the same problem that we face forever in EFSA ring before EFSA that data and data innovation and new ways of gathering data will be mistrusted and we tend to think that's so unfair, we've worked on this week.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 4238900000,
+          "Duration": 262500000,
+          "NBest": [
+            {
+              "Confidence": 0.899773,
+              "Lexical": "yes it's wonderful but i think we have to engage with technophobic with data phobia and not dismiss it as people who don't understand i've heard from this platform yesterday or the day before i was quite shocked somebody saying to this audience know people out there aren't quite as good as us people out there are quite as good as us and they can turn into trust so mistrust is not irrational",
+              "ITN": "yes it's wonderful but I think we have to engage with technophobic with data phobia and not dismiss it as people who don't understand I've heard from this platform yesterday or the day before I was quite shocked somebody saying to this audience know people out there aren't quite as good as us people out there are quite as good as us and they can turn into trust so mistrust is not irrational",
+              "MaskedITN": "yes it's wonderful but I think we have to engage with technophobic with data phobia and not dismiss it as people who don't understand I've heard from this platform yesterday or the day before I was quite shocked somebody saying to this audience know people out there aren't quite as good as us people out there are quite as good as us and they can turn into trust so mistrust is not irrational",
+              "Display": "Yes, it's wonderful but I think we have to engage with technophobic with data phobia and not dismiss it as people who don't understand. I've heard from this platform yesterday or the day before I was quite shocked somebody saying to this audience know, people out there aren't quite as good as us people out. There are quite as good as us and they can turn into trust so mistrust is not irrational.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 4511000000,
+          "Duration": 68000000,
+          "NBest": [
+            {
+              "Confidence": 0.926038,
+              "Lexical": "all these reasons again i won't go through them exist we have to be modest but at the same time",
+              "ITN": "all these reasons again I won't go through them exist we have to be modest but at the same time",
+              "MaskedITN": "all these reasons again I won't go through them exist we have to be modest but at the same time",
+              "Display": "All these reasons again, I won't go through them exist. We have to be modest but at the same time.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 4591900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.906051,
+              "Lexical": "trust can be developed and i'm i just want you to bear in mind that trust is not developed by better algorithms bigger databases but by showing that we are aligned with society's values that we are contributing to the sustainability goals and they were letting people into our process is so the first point what does it mean to be aligned with values i think the answer is that values do involve a little bit at the top there's some froth but",
+              "ITN": "trust can be developed and I'm I just want you to bear in mind that trust is not developed by better algorithms bigger databases but by showing that we are aligned with society's values that we are contributing to the sustainability goals and they were letting people into our process is so the first point what does it mean to be aligned with values I think the answer is that values do involve a little bit at the top there's some froth but",
+              "MaskedITN": "trust can be developed and I'm I just want you to bear in mind that trust is not developed by better algorithms bigger databases but by showing that we are aligned with society's values that we are contributing to the sustainability goals and they were letting people into our process is so the first point what does it mean to be aligned with values I think the answer is that values do involve a little bit at the top there's some froth but",
+              "Display": "Trust can be developed and I'm I just want you to bear in mind that trust is not developed by better algorithms bigger databases. But by showing that we are aligned with society's values that we are contributing to the sustainability goals and they were letting people into our process is so the first point. What does it mean to be aligned with values? I think the answer is that values do involve a little bit at the top there's some froth but.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 4901900000,
+          "Duration": 165200000,
+          "NBest": [
+            {
+              "Confidence": 0.919968,
+              "Lexical": "there is a set of hard wired needs we need to hear talked about when we are advancing anything however narrow the field were working in we need to be aware that every human being who listens has hard wired need",
+              "ITN": "there is a set of hard wired needs we need to hear talked about when we are advancing anything however narrow the field were working in we need to be aware that every human being who listens has hard wired need",
+              "MaskedITN": "there is a set of hard wired needs we need to hear talked about when we are advancing anything however narrow the field were working in we need to be aware that every human being who listens has hard wired need",
+              "Display": "There is a set of hard wired needs. We need to hear talked about when we are advancing anything. However, narrow the field were working in. We need to be aware that every human being who listens has hard wired need.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 5124900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.902535,
+              "Lexical": "o k i recommend yes to talk about this is written by the centre left social science guy called jonathan haidt who's in american and it's a really good read especially in times of populism for people like us who are rational essentially center left liberals and not all in the social sciences and what is really telling us is that the hard wiring the things that we need to hear about come out of africa",
+              "ITN": "OK I recommend yes to talk about this is written by the centre left social science guy called Jonathan haidt who's in American and it's a really good read especially in times of populism for people like us who are rational essentially center left liberals and not all in the social sciences and what is really telling us is that the hard wiring the things that we need to hear about come out of Africa",
+              "MaskedITN": "OK I recommend yes to talk about this is written by the centre left social science guy called Jonathan haidt who's in American and it's a really good read especially in times of populism for people like us who are rational essentially center left liberals and not all in the social sciences and what is really telling us is that the hard wiring the things that we need to hear about come out of Africa",
+              "Display": "OK, I recommend yes to talk about this is written by the centre left Social Science Guy called Jonathan Haidt, who's in American and it's a really good read, especially in times of populism for people like us who are rational essentially center left liberals and not all in the social sciences and what is really telling us is that the hard wiring the things that we need to hear about come out of Africa?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 5432900000,
+          "Duration": 293300000,
+          "NBest": [
+            {
+              "Confidence": 0.898625,
+              "Lexical": "i think we are the products of whatever we know of our grandparents history it's been going on for a lot longer than that and the result is and go to the website that's referenced he's got a really neat website you can answer the questionnaire that there are five things which he calls care fairness loyalty authoritie sanctity that somehow in all cultures at all times all human beings have a view on and the tragedy he identifies which is very sort of",
+              "ITN": "I think we are the products of whatever we know of our grandparents history it's been going on for a lot longer than that and the result is and go to the website that's referenced he's got a really neat website you can answer the questionnaire that there are 5 things which he calls care fairness loyalty authoritie sanctity that somehow in all cultures at all times all human beings have a view on and the tragedy he identifies which is very sort of",
+              "MaskedITN": "I think we are the products of whatever we know of our grandparents history it's been going on for a lot longer than that and the result is and go to the website that's referenced he's got a really neat website you can answer the questionnaire that there are 5 things which he calls care fairness loyalty authoritie sanctity that somehow in all cultures at all times all human beings have a view on and the tragedy he identifies which is very sort of",
+              "Display": "I think we are the products of whatever. We know of our grandparents history. It's been going on for a lot longer than that and the result is and go to the website. That's referenced. He's got a really neat website. You can answer the questionnaire that there are 5 things, which he calls care fairness loyalty. Authoritie sanctity that somehow in all cultures at all times. All human beings have a view on and the tragedy, he identifies which is very sort of.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 5735300000,
+          "Duration": 70200000,
+          "NBest": [
+            {
+              "Confidence": 0.895159,
+              "Lexical": "transatlantic it's not just american i mean it's come to us as well is that the discourse on the right",
+              "ITN": "transatlantic it's not just American I mean it's come to us as well is that the discourse on the right",
+              "MaskedITN": "transatlantic it's not just American I mean it's come to us as well is that the discourse on the right",
+              "Display": "Transatlantic it's not just American I mean, it's come to us as well is that the discourse on the right.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 5819000000,
+          "Duration": 36100000,
+          "NBest": [
+            {
+              "Confidence": 0.874864,
+              "Lexical": "ticks all those boxes in a way that the discourse on the left does",
+              "ITN": "ticks all those boxes in a way that the discourse on the left does",
+              "MaskedITN": "ticks all those boxes in a way that the discourse on the left does",
+              "Display": "Ticks all those boxes in a way that the discourse on the left does.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 5864400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.897736,
+              "Lexical": "and his proposition which i think is true for policymakers everywhere is that not everybody should go and vote populist but liberals and rational lists need to reinvent a discourse that ticks or five boxes and if you read that book and then you re read the speeches of somebody like president mac haul there are people out there in positions of power have read the book if you think about the slogan which the current austrian presidency",
+              "ITN": "and his proposition which I think is true for policymakers everywhere is that not everybody should go and vote populist but liberals and rational lists need to reinvent a discourse that ticks or 5 boxes and if you read that book and then you re read the speeches of somebody like president Mac haul there are people out there in positions of power have read the book if you think about the slogan which the current Austrian presidency",
+              "MaskedITN": "and his proposition which I think is true for policymakers everywhere is that not everybody should go and vote populist but liberals and rational lists need to reinvent a discourse that ticks or 5 boxes and if you read that book and then you re read the speeches of somebody like president Mac haul there are people out there in positions of power have read the book if you think about the slogan which the current Austrian presidency",
+              "Display": "And his proposition, which I think is true for policymakers everywhere is that not everybody should go and vote populist but liberals and rational lists need to reinvent a discourse that ticks or 5 boxes and if you read that book and then you re read the speeches of somebody like President Mac haul. There are people out there in positions of power have read the book if you think about the slogan, which the current Austrian presidency.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 6172400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.881134,
+              "Lexical": "europe europe that protects i think they've read the book so this is a message of hope but it's also a challenge because most of us say hey i'm a scientist this is not me and be of course karen fairness trump sanctity what sancta t i'm i'm an atheist but it's not about that so so i just put that out there it's very left field it's not what you thought you'd be listening to today but bear it in mind coz if you come with data that scientific narrow focus and you embed it in a discourse",
+              "ITN": "Europe Europe that protects I think they've read the book so this is a message of hope but it's also a challenge because most of us say hey I'm a scientist this is not me and be of course Karen fairness trump sanctity what sancta TI'm I'm an atheist but it's not about that so so I just put that out there it's very left field it's not what you thought you'd be listening to today but bear it in mind coz if you come with data that scientific narrow focus and you embed it in a discourse",
+              "MaskedITN": "Europe Europe that protects I think they've read the book so this is a message of hope but it's also a challenge because most of us say hey I'm a scientist this is not me and be of course Karen fairness trump sanctity what sancta TI'm I'm an atheist but it's not about that so so I just put that out there it's very left field it's not what you thought you'd be listening to today but bear it in mind coz if you come with data that scientific narrow focus and you embed it in a discourse",
+              "Display": "Europe, Europe that protects I think they've read the book so this is a message of hope. But it's also a challenge because most of us say. Hey, I'm a scientist. This is not me. And be of course, Karen Fairness, Trump Sanctity? What Sancta TI'm. I'm an atheist but it's not about that. So so I just put that out there. It's very left field. It's not what you thought you'd be listening to today, but bear it in mind, coz if you come with data that scientific narrow focus and you embed it in a discourse.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 6480400000,
+          "Duration": 19400000,
+          "NBest": [
+            {
+              "Confidence": 0.616261,
+              "Lexical": "people won't listen",
+              "ITN": "people won't listen",
+              "MaskedITN": "people won't listen",
+              "Display": "People won't listen.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 6509400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.913589,
+              "Lexical": "so we then come to sustainability i think that the sustainability goals are bought everybody likes them everybody gets that we're changing that there's a technological revolution going on but not many people understand to what extent these goals in this revolution are aligned so this stuff is out of adelman's trust barometer and goes back to twenty fifteen the needle hasn't moved much",
+              "ITN": "so we then come to sustainability I think that the sustainability goals are bought everybody likes them everybody gets that we're changing that there's a technological revolution going on but not many people understand to what extent these goals in this revolution are aligned so this stuff is out of adelman's trust barometer and goes back to 2015 the needle hasn't moved much",
+              "MaskedITN": "so we then come to sustainability I think that the sustainability goals are bought everybody likes them everybody gets that we're changing that there's a technological revolution going on but not many people understand to what extent these goals in this revolution are aligned so this stuff is out of adelman's trust barometer and goes back to 2015 the needle hasn't moved much",
+              "Display": "So we then come to sustainability, I think that the sustainability goals are bought everybody likes them. Everybody gets that we're changing that there's a technological revolution going on, but not many people understand to what extent these goals in this revolution are aligned so this stuff is out of Adelman's trust barometer and goes back to 2015, the needle hasn't moved much.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 6817400000,
+          "Duration": 20200000,
+          "NBest": [
+            {
+              "Confidence": 0.867446,
+              "Lexical": "of us think the world is moving too fast",
+              "ITN": "of us think the world is moving too fast",
+              "MaskedITN": "of us think the world is moving too fast",
+              "Display": "Of us think the world is moving too fast.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 6848400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.907536,
+              "Lexical": "some of us think it's moving too slowly but more important than that is what's the impact of this potentially over fast innovation most people and here we look talking about abc ones in eighty countries motor so people like us most people think that innovation drives growth fine but most people doubt that innovation is actually helping people and planet the same people so this isn't a divide between",
+              "ITN": "some of us think it's moving too slowly but more important than that is what's the impact of this potentially over fast innovation most people and here we look talking about ABC ones in 80 countries motor so people like us most people think that innovation drives growth fine but most people doubt that innovation is actually helping people and planet the same people so this isn't a divide between",
+              "MaskedITN": "some of us think it's moving too slowly but more important than that is what's the impact of this potentially over fast innovation most people and here we look talking about ABC ones in 80 countries motor so people like us most people think that innovation drives growth fine but most people doubt that innovation is actually helping people and planet the same people so this isn't a divide between",
+              "Display": "Some of us think it's moving too slowly. But more important than that is what's the impact of this potentially over fast innovation. Most people and here we look talking about ABC ones in 80 countries motor so people like us. Most people think that innovation drives growth fine. But most people doubt that innovation is actually helping people and planet the same people so this isn't a divide between.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 7156400000,
+          "Duration": 287900000,
+          "NBest": [
+            {
+              "Confidence": 0.902346,
+              "Lexical": "ngos and clever people in authoritie this is about the conflict within our own minds about the world is going fast we get that innovation is both good and inevitable but we're not sure it's hitting the right goals this is a huge opportunity one of two things is true either those who are in charge of technology and growth and change are trashing the planet and people have got wise to it and we need to change",
+              "ITN": "NGOs and clever people in authoritie this is about the conflict within our own minds about the world is going fast we get that innovation is both good and inevitable but we're not sure it's hitting the right goals this is a huge opportunity one of 2 things is true either those who are in charge of technology and growth and change are trashing the planet and people have got wise to it and we need to change",
+              "MaskedITN": "NGOs and clever people in authoritie this is about the conflict within our own minds about the world is going fast we get that innovation is both good and inevitable but we're not sure it's hitting the right goals this is a huge opportunity one of 2 things is true either those who are in charge of technology and growth and change are trashing the planet and people have got wise to it and we need to change",
+              "Display": "NGOs and clever people in Authoritie. This is about the conflict within our own minds about the world is going fast. We get that innovation is both good and inevitable, but we're not sure it's hitting the right goals. This is a huge opportunity. One of 2. Things is true either. Those who are in charge of technology and growth and change are trashing the planet and people have got wise to it, and we need to change.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 7453700000,
+          "Duration": 162600000,
+          "NBest": [
+            {
+              "Confidence": 0.902892,
+              "Lexical": "or actually the story is not as grim as that people are integrating a degree of sustainability into a difficult change but we are communicating in a really poor way so probably it's a bit of both we both need to read",
+              "ITN": "or actually the story is not as grim as that people are integrating a degree of sustainability into a difficult change but we are communicating in a really poor way so probably it's a bit of both we both need to read",
+              "MaskedITN": "or actually the story is not as grim as that people are integrating a degree of sustainability into a difficult change but we are communicating in a really poor way so probably it's a bit of both we both need to read",
+              "Display": "Or actually the story is not as grim as that people are integrating a degree of sustainability into a difficult change. But we are communicating in a really poor way, so probably it's a bit of both we both need to read.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 7628800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.897628,
+              "Lexical": "reinforce our sustainability tuning of our policies but we surely need to communicate it better and those perceptions are driven by a lack of transparency and by a lack of clarity on the benefits so i think that what does that say for f certain for data can you make data and evidence more transparent which doesn't mean more of it and a new colour on the top of the press release can you make it react to the trigger",
+              "ITN": "reinforce our sustainability tuning of our policies but we surely need to communicate it better and those perceptions are driven by a lack of transparency and by a lack of clarity on the benefits so I think that what does that say for F certain for data can you make data and evidence more transparent which doesn't mean more of it and a new colour on the top of the press release can you make it react to the trigger",
+              "MaskedITN": "reinforce our sustainability tuning of our policies but we surely need to communicate it better and those perceptions are driven by a lack of transparency and by a lack of clarity on the benefits so I think that what does that say for F certain for data can you make data and evidence more transparent which doesn't mean more of it and a new colour on the top of the press release can you make it react to the trigger",
+              "Display": "Reinforce our sustainability tuning of our policies, but we surely need to communicate it better and those perceptions are driven by a lack of transparency and by a lack of clarity on the benefits so I think that what does that say for F certain for data? Can you make data and evidence more transparent which doesn't mean more of it and a new colour on the top of the press release can you make it react to the trigger?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 7936800000,
+          "Duration": 288200000,
+          "NBest": [
+            {
+              "Confidence": 0.908694,
+              "Lexical": "sing so that they begin to take interest and can we somehow be clear on the benefits and this is not the benefits in terms simply of value for money it's also the benefits in terms of people and planet and so i think that if you narrow down the seventeen goals to what we need to do we need to be sure that our discourse our search for evidence our definition of our questions covers this broader",
+              "ITN": "sing so that they begin to take interest and can we somehow be clear on the benefits and this is not the benefits in terms simply of value for money it's also the benefits in terms of people and planet and so I think that if you narrow down the 17 goals to what we need to do we need to be sure that our discourse our search for evidence our definition of our questions covers this broader",
+              "MaskedITN": "sing so that they begin to take interest and can we somehow be clear on the benefits and this is not the benefits in terms simply of value for money it's also the benefits in terms of people and planet and so I think that if you narrow down the 17 goals to what we need to do we need to be sure that our discourse our search for evidence our definition of our questions covers this broader",
+              "Display": "Sing so that they begin to take interest and can, we somehow be clear on the benefits and this is not the benefits in terms simply of value for money. It's also the benefits in terms of people and planet and so I think that if you narrow down the 17 goals to what we need to do. We need to be sure that our discourse. Our search for evidence our definition of our questions covers this broader?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 8234700000,
+          "Duration": 204100000,
+          "NBest": [
+            {
+              "Confidence": 0.913937,
+              "Lexical": "and finally let people in participation is a key without participation even if you're doing a wonderful job nobody will trust you i know that participation in in this town and especially for efsa has been troubling in the sense that sometimes people force their way into the offices and chain themselves to radiators but",
+              "ITN": "and finally let people in participation is a key without participation even if you're doing a wonderful job nobody will trust you I know that participation in in this town and especially for EFSA has been troubling in the sense that sometimes people force their way into the offices and chain themselves to radiators but",
+              "MaskedITN": "and finally let people in participation is a key without participation even if you're doing a wonderful job nobody will trust you I know that participation in in this town and especially for EFSA has been troubling in the sense that sometimes people force their way into the offices and chain themselves to radiators but",
+              "Display": "And finally let people in participation is a key without participation. Even if you're doing a wonderful job. Nobody will trust you. I know that participation in in this town and especially for EFSA has been troubling in the sense that sometimes people force their way into the offices and chain themselves to radiators, but",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 8448900000,
+          "Duration": 52600000,
+          "NBest": [
+            {
+              "Confidence": 0.877723,
+              "Lexical": "still have to let them in and i say that as a form of public servant faceless bureaucrats an account",
+              "ITN": "still have to let them in and I say that as a form of public servant faceless bureaucrats an account",
+              "MaskedITN": "still have to let them in and I say that as a form of public servant faceless bureaucrats an account",
+              "Display": "Still have to let them in and I say that as a form of public servant faceless bureaucrats an account.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 8521800000,
+          "Duration": 202500000,
+          "NBest": [
+            {
+              "Confidence": 0.899558,
+              "Lexical": "and we have to let them in and help them to become literate in technology and here i borrow this from british telecom but tech literacy includes data literacy includes evidence literacy and this is a tech company but look at all these very people oriented things that are very tech company thinks our import",
+              "ITN": "and we have to let them in and help them to become literate in technology and here I borrow this from British Telecom but tech literacy includes data literacy includes evidence literacy and this is a tech company but look at all these very people oriented things that are very tech company thinks our import",
+              "MaskedITN": "and we have to let them in and help them to become literate in technology and here I borrow this from British Telecom but tech literacy includes data literacy includes evidence literacy and this is a tech company but look at all these very people oriented things that are very tech company thinks our import",
+              "Display": "And we have to let them in and help them to become literate in technology. And here I borrow this from British Telecom, but tech literacy includes data literacy includes evidence literacy and this is a tech company but look at all these very people oriented things that are very tech company thinks our import.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 8733400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.898116,
+              "Lexical": "and does efsa think that it's important to at least point it's broad stakeholder community towards up skilling in these areas if not probably you should so that's the broad background now the second point i wanted to make is that you are creating a new age data and evidence machine i hope will hear about that in the rest of the day at a time when risk is changing yes",
+              "ITN": "and does EFSA think that it's important to at least point it's broad stakeholder community towards up skilling in these areas if not probably you should so that's the broad background now the second point I wanted to make is that you are creating a new age data and evidence machine I hope will hear about that in the rest of the day at a time when risk is changing yes",
+              "MaskedITN": "and does EFSA think that it's important to at least point it's broad stakeholder community towards up skilling in these areas if not probably you should so that's the broad background now the second point I wanted to make is that you are creating a new age data and evidence machine I hope will hear about that in the rest of the day at a time when risk is changing yes",
+              "Display": "And does EFSA think that it's important to at least point. It's broad stakeholder community towards up. Skilling in these areas. If not probably you should so that's the broad background. Now the second point. I wanted to make is that you are creating a new age data and evidence machine. I hope will hear about that in the rest of the day at a time when risk is changing. Yes.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 9041400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.909046,
+              "Lexical": "so the whole framing of risk and the tools for risk management are also changing so there a new ideas in practice on risk and its management and if you improve your data machine for what risk assessment needs to do today in ten years time you will be standing still and so that's a big challenge and one of the things i wanted to emphasise here is the risk management aspect if as a practitioner of the general food",
+              "ITN": "so the whole framing of risk and the tools for risk management are also changing so there a new ideas in practice on risk and its management and if you improve your data machine for what risk assessment needs to do today in 10 years time you will be standing still and so that's a big challenge and one of the things I wanted to emphasise here is the risk management aspect if as a practitioner of the general food",
+              "MaskedITN": "so the whole framing of risk and the tools for risk management are also changing so there a new ideas in practice on risk and its management and if you improve your data machine for what risk assessment needs to do today in 10 years time you will be standing still and so that's a big challenge and one of the things I wanted to emphasise here is the risk management aspect if as a practitioner of the general food",
+              "Display": "So the whole framing of risk and the tools for risk management are also changing so there a new ideas in practice on risk and its management and if you improve your data machine for what risk assessment needs to do today. In 10 years. Time you will be standing still and so that's a big challenge and one of the things I wanted to emphasise here is the risk management aspect if as a practitioner of the general food.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 9349400000,
+          "Duration": 116800000,
+          "NBest": [
+            {
+              "Confidence": 0.895462,
+              "Lexical": "so it was that not only does the national and you level not fit together properly because it is too much black and white oil and water but the assessment management dichotomy",
+              "ITN": "so it was that not only does the national and you level not fit together properly because it is too much black and white oil and water but the assessment management dichotomy",
+              "MaskedITN": "so it was that not only does the national and you level not fit together properly because it is too much black and white oil and water but the assessment management dichotomy",
+              "Display": "So it was that not only does the national and you level not fit together properly because it is too much black and white oil and water but the assessment management dichotomy.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 9478800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.904374,
+              "Lexical": "the social construct and it's killing us you know we need risk assessment which is much more into the realities of management and vice versa so guess what the more you spread your vision of the world for which you work the more you discover there a people in it and the human factor is really complicated so in the real world the issues are not just what about the pathogen but what are people doing and if i illustrated this from something i heard in this room yesterday we talked that way",
+              "ITN": "the social construct and it's killing us you know we need risk assessment which is much more into the realities of management and vice versa so guess what the more you spread your vision of the world for which you work the more you discover there a people in it and the human factor is really complicated so in the real world the issues are not just what about the pathogen but what are people doing and if I illustrated this from something I heard in this room yesterday we talked that way",
+              "MaskedITN": "the social construct and it's killing us you know we need risk assessment which is much more into the realities of management and vice versa so guess what the more you spread your vision of the world for which you work the more you discover there a people in it and the human factor is really complicated so in the real world the issues are not just what about the pathogen but what are people doing and if I illustrated this from something I heard in this room yesterday we talked that way",
+              "Display": "The social construct and it's killing us, you know, we need risk assessment, which is much more into the realities of Management and vice versa. So guess what the more you spread your vision of the world for which you work, the more you discover there. A people in it, and the human factor is really complicated so in the real world. The issues are not just what about the pathogen. But what are people doing and if I illustrated this from something I heard in this room yesterday. We talked that way.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 9786800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.903433,
+              "Lexical": "places where we didn't use to have musky toes like the south of england where i was born but we didn't talk as much about we talked about vector surveillance we didn't talk about as much about how do you get people to do what they've done with sun cream in the last thirty years how do you get people in countries that didn't think about insect bite as a potential source of serious illness to protect themselves against insect bites and i think that that human",
+              "ITN": "places where we didn't use to have musky toes like the South of England where I was born but we didn't talk as much about we talked about vector surveillance we didn't talk about as much about how do you get people to do what they've done with sun cream in the last 30 years how do you get people in countries that didn't think about insect bite as a potential source of serious illness to protect themselves against insect bites and I think that that human",
+              "MaskedITN": "places where we didn't use to have musky toes like the South of England where I was born but we didn't talk as much about we talked about vector surveillance we didn't talk about as much about how do you get people to do what they've done with sun cream in the last 30 years how do you get people in countries that didn't think about insect bite as a potential source of serious illness to protect themselves against insect bites and I think that that human",
+              "Display": "Places where we didn't use to have musky toes like the South of England where I was born. But we didn't talk as much about. We talked about vector surveillance. We didn't talk about as much about how do you get people to do what they've done with sun cream in the last 30 years. How do you get people in countries that didn't think about insect bite as a potential source of serious illness to protect themselves against insect bites and I think that that human.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 10094800000,
+          "Duration": 4200000,
+          "NBest": [
+            {
+              "Confidence": 0.42977,
+              "Lexical": "example",
+              "ITN": "example",
+              "MaskedITN": "example",
+              "Display": "Example.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 10108500000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.910131,
+              "Lexical": "and here this is a message for risk managers if there in the audience but for risk assessors it's important as well risk assessment should be ready to support cultural change in risk management because cultural change in risk management is going to happen otherwise risk management fails and the change we need is to move from a blame culture to an open culture so we have that in some areas like air transport safety we don't yet have it in",
+              "ITN": "and here this is a message for risk managers if there in the audience but for risk assessors it's important as well risk assessment should be ready to support cultural change in risk management because cultural change in risk management is going to happen otherwise risk management fails and the change we need is to move from a blame culture to an open culture so we have that in some areas like air transport safety we don't yet have it in",
+              "MaskedITN": "and here this is a message for risk managers if there in the audience but for risk assessors it's important as well risk assessment should be ready to support cultural change in risk management because cultural change in risk management is going to happen otherwise risk management fails and the change we need is to move from a blame culture to an open culture so we have that in some areas like air transport safety we don't yet have it in",
+              "Display": "And here this is a message for risk managers if there in the audience. But for risk assessors. It's important as well risk assessment should be ready to support cultural change in risk management because cultural change in risk management is going to happen otherwise risk management fails, and the change. We need is to move from a blame culture to an open culture. So we have that in some areas like Air Transport Safety. We don't yet have it in.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 10416500000,
+          "Duration": 298400000,
+          "NBest": [
+            {
+              "Confidence": 0.903133,
+              "Lexical": "i think in food safety it was colossally a failure in the bse age it hasn't yet got better in my personal opinion and as the challenges of risk management and the increase in the resource is diminish this is the way that risk managers are going to have to go there going to have to focus more and more and more on where are the criminal chancer careless communities and give much less one size fits all upstream",
+              "ITN": "I think in food safety it was colossally a failure in the BSE age it hasn't yet got better in my personal opinion and as the challenges of risk management and the increase in the resource is diminish this is the way that risk managers are going to have to go there going to have to focus more and more and more on where are the criminal chancer careless communities and give much less one size fits all upstream",
+              "MaskedITN": "I think in food safety it was colossally a failure in the BSE age it hasn't yet got better in my personal opinion and as the challenges of risk management and the increase in the resource is diminish this is the way that risk managers are going to have to go there going to have to focus more and more and more on where are the criminal chancer careless communities and give much less one size fits all upstream",
+              "Display": "I think in food safety. It was colossally a failure in the BSE age. It hasn't yet got better in my personal opinion and as the challenges of risk management and the increase in the resource is diminish. This is the way that risk managers are going to have to go there going to have to focus more and more and more on where are the criminal chancer careless communities and give much less one size fits all upstream?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 10725500000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.908775,
+              "Lexical": "risk checking and much more targeted surveillance targeted intervention so one of the things that risk assessment needs to build in is the risk that is the human factor that is downstream and that is not a function of the things that efsa is expert and assessing but is a multiplier of them in ways that are unpredictable and if you're risk managers have not yet come to you and said do you have data on",
+              "ITN": "risk checking and much more targeted surveillance targeted intervention so one of the things that risk assessment needs to build in is the risk that is the human factor that is downstream and that is not a function of the things that EFSA is expert and assessing but is a multiplier of them in ways that are unpredictable and if you're risk managers have not yet come to you and said do you have data on",
+              "MaskedITN": "risk checking and much more targeted surveillance targeted intervention so one of the things that risk assessment needs to build in is the risk that is the human factor that is downstream and that is not a function of the things that EFSA is expert and assessing but is a multiplier of them in ways that are unpredictable and if you're risk managers have not yet come to you and said do you have data on",
+              "Display": "Risk checking and much more targeted surveillance targeted intervention, so one of the things that risk assessment needs to build in is the risk that is the human factor that is downstream and that is not a function of the things that EFSA is expert and assessing but is a multiplier of them in ways that are unpredictable. And if you're risk managers have not yet come to you and said, Do you have data on?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11033500000,
+          "Duration": 58500000,
+          "NBest": [
+            {
+              "Confidence": 0.903218,
+              "Lexical": "and you are saying actually that's a risk management problem so the risks can't be assessed i think that",
+              "ITN": "and you are saying actually that's a risk management problem so the risks can't be assessed I think that",
+              "MaskedITN": "and you are saying actually that's a risk management problem so the risks can't be assessed I think that",
+              "Display": "And you are saying actually that's a risk management problem, so the risks can't be assessed I think that.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11101300000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.90154,
+              "Lexical": "not going to be true for very long i'll skip this stuff about ethical business regulation which is new form co regulator e not the big hammer there's a big book on that as well and the international network on the delivery of regulation which i mentioned in my disclosures is one of the things that does that so data innovation in a risk assessment world should be so that's me talking only n equals one should be designed to support such new",
+              "ITN": "not going to be true for very long I'll skip this stuff about ethical business regulation which is new form Co regulator E not the big hammer there's a big book on that as well and the international network on the delivery of regulation which I mentioned in my disclosures is one of the things that does that so data innovation in a risk assessment world should be so that's me talking only n equals one should be designed to support such new",
+              "MaskedITN": "not going to be true for very long I'll skip this stuff about ethical business regulation which is new form Co regulator E not the big hammer there's a big book on that as well and the international network on the delivery of regulation which I mentioned in my disclosures is one of the things that does that so data innovation in a risk assessment world should be so that's me talking only n equals one should be designed to support such new",
+              "Display": "Not going to be true for very long, I'll skip this stuff about ethical business regulation, which is new form. Co regulator E not the big hammer. There's a big book on that as well, and the International Network on the delivery of regulation, which I mentioned in my disclosures is one of the things that does that so data innovation in a risk assessment world should be so that's me talking only n equals one should be designed to support such new.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11409300000,
+          "Duration": 42200000,
+          "NBest": [
+            {
+              "Confidence": 0.899526,
+              "Lexical": "practice because we need it to get a modern european union which i",
+              "ITN": "practice because we need it to get a modern European Union which I",
+              "MaskedITN": "practice because we need it to get a modern European Union which I",
+              "Display": "Practice because we need it to get a modern European Union, which I.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11462200000,
+          "Duration": 134300000,
+          "NBest": [
+            {
+              "Confidence": 0.896254,
+              "Lexical": "zero now i'm accelerating towards the end i have five minutes and the two things you thought are going to talk about a how does efsa in the risk analysis twenty first century fit into its ecosystem and b what's all this about data and ever",
+              "ITN": "zero now I'm accelerating towards the end I have 5 minutes and the 2 things you thought are going to talk about a how does EFSA in the risk analysis 21st century fit into its ecosystem and B what's all this about data and ever",
+              "MaskedITN": "zero now I'm accelerating towards the end I have 5 minutes and the 2 things you thought are going to talk about a how does EFSA in the risk analysis 21st century fit into its ecosystem and B what's all this about data and ever",
+              "Display": "Zero now I'm accelerating towards the end. I have 5 minutes and the 2 things you thought are going to talk about a how does EFSA in the risk analysis 21st century fit into its ecosystem and B? What's all this about data and ever.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11606000000,
+          "Duration": 186800000,
+          "NBest": [
+            {
+              "Confidence": 0.918256,
+              "Lexical": "so i think that i've already made clear that efsa faces its future in a world that's complicated enough already and i think i would just like to put my political view out there as it were that efsa needs abroad vision which i think you're building and a license to experiment which people in brussels in strassburg need to build",
+              "ITN": "so I think that I've already made clear that EFSA faces its future in a world that's complicated enough already and I think I would just like to put my political view out there as it were that EFSA needs abroad vision which I think you're building and a license to experiment which people in Brussels in strassburg need to build",
+              "MaskedITN": "so I think that I've already made clear that EFSA faces its future in a world that's complicated enough already and I think I would just like to put my political view out there as it were that EFSA needs abroad vision which I think you're building and a license to experiment which people in Brussels in strassburg need to build",
+              "Display": "So I think that I've already made clear that EFSA faces its future in a world that's complicated enough already and I think I would just like to put my political view out there as it were that EFSA needs abroad vision which I think you're building and a license to experiment, which people in Brussels in Strassburg need to build.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 11808400000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.901556,
+              "Lexical": "it's a disruptive difficult future because you're in between the unsustainable status quo is not here in palmer it's in the world around us and the emergent futures are as well the risk sources you know the risk managers like i say maybe the risk management is not watching mosquitoes spread across europe but encouraging naiv populations to protect against them we stuck between science and politics say no more francis bacon with stuck between food",
+              "ITN": "it's a disruptive difficult future because you're in between the unsustainable status quo is not here in Palmer it's in the world around us and the emergent futures are as well the risk sources you know the risk managers like I say maybe the risk management is not watching mosquitoes spread across Europe but encouraging naiv populations to protect against them we stuck between science and politics say no more Francis Bacon with stuck between food",
+              "MaskedITN": "it's a disruptive difficult future because you're in between the unsustainable status quo is not here in Palmer it's in the world around us and the emergent futures are as well the risk sources you know the risk managers like I say maybe the risk management is not watching mosquitoes spread across Europe but encouraging naiv populations to protect against them we stuck between science and politics say no more Francis Bacon with stuck between food",
+              "Display": "It's a disruptive difficult future because you're in between the unsustainable status. Quo is not here in Palmer. It's in the world around us and the emergent futures are as well. The risk sources. You know the risk managers like I say maybe the risk management is not watching mosquitoes spread across Europe, but encouraging naiv populations to protect against them. We stuck between science and politics say no more. Francis Bacon with stuck between food.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 12116400000,
+          "Duration": 154900000,
+          "NBest": [
+            {
+              "Confidence": 0.914527,
+              "Lexical": "fields and there i do think that increasingly the siloed or vertically empowered mandates for risk assessment need to be joined together and you are stuck between the global the international and the local authority",
+              "ITN": "fields and there I do think that increasingly the siloed or vertically empowered mandates for risk assessment need to be joined together and you are stuck between the global the international and the local authority",
+              "MaskedITN": "fields and there I do think that increasingly the siloed or vertically empowered mandates for risk assessment need to be joined together and you are stuck between the global the international and the local authority",
+              "Display": "Fields and there, I do think that increasingly the siloed or vertically empowered mandates for risk assessment need to be joined together and you are stuck between the global the international and the local authority.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 12281300000,
+          "Duration": 241100000,
+          "NBest": [
+            {
+              "Confidence": 0.90016,
+              "Lexical": "but reinforces in my view my earlier point that food safety and food safety risk assessment and data development for food safety risk assessment all have to reach out so a big priority is talk to more people in a years time you're talking to new groups you haven't talked to before that's a success if you just gone away saying we must be open everybody come to parma that would not be as",
+              "ITN": "but reinforces in my view my earlier point that food safety and food safety risk assessment and data development for food safety risk assessment all have to reach out so a big priority is talk to more people in a years time you're talking to new groups you haven't talked to before that's a success if you just gone away saying we must be open everybody come to Parma that would not be as",
+              "MaskedITN": "but reinforces in my view my earlier point that food safety and food safety risk assessment and data development for food safety risk assessment all have to reach out so a big priority is talk to more people in a years time you're talking to new groups you haven't talked to before that's a success if you just gone away saying we must be open everybody come to Parma that would not be as",
+              "Display": "But reinforces in my view, my earlier point that food safety and food safety risk assessment and data development for food safety risk assessment. All have to reach out so a big priority is talk to more people in a years time, you're talking to new groups. You haven't talked to before. That's a success. If you just gone away, saying we must be open everybody come to Parma that would not be as.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 12532400000,
+          "Duration": 105300000,
+          "NBest": [
+            {
+              "Confidence": 0.912729,
+              "Lexical": "so my view in this field of data is we shouldn't just look at the data we shouldn't just look at the tools we should think about how they feed into a",
+              "ITN": "so my view in this field of data is we shouldn't just look at the data we shouldn't just look at the tools we should think about how they feed into a",
+              "MaskedITN": "so my view in this field of data is we shouldn't just look at the data we shouldn't just look at the tools we should think about how they feed into a",
+              "Display": "So my view, in this field of data is we shouldn't just look at the data. We shouldn't just look at the tools. We should think about how they feed into a?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 12647700000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.917966,
+              "Lexical": "fourth industrial revolution style efsa rethink where you have a license to innovate as of right where you are empowered by a legal framework with horizontal principles and not just all those successive directives and regulations where you can co create your risk assessment best practice across different sectors where you i know this is controversial but we are allowed to look not just a risk and risk risk but also risk ben",
+              "ITN": "fourth industrial revolution style EFSA rethink where you have a license to innovate as of right where you are empowered by a legal framework with horizontal principles and not just all those successive directives and regulations where you can Co create your risk assessment best practice across different sectors where you I know this is controversial but we are allowed to look not just a risk and risk risk but also risk Ben",
+              "MaskedITN": "fourth industrial revolution style EFSA rethink where you have a license to innovate as of right where you are empowered by a legal framework with horizontal principles and not just all those successive directives and regulations where you can Co create your risk assessment best practice across different sectors where you I know this is controversial but we are allowed to look not just a risk and risk risk but also risk Ben",
+              "Display": "Fourth Industrial Revolution Style EFSA rethink where you have a license to innovate as of right where you are empowered by a legal framework with horizontal principles and not just all those successive directives and regulations where you can Co create your risk assessment best practice across different sectors where you I know this is controversial. But we are allowed to look not just a risk and risk risk, but also risk Ben.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 12955700000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.882848,
+              "Lexical": "risk impact visions where the human factor is here studied not just so that you can do more better communication of your risk assessment which i know efsa is already working hard on but as a factor in risks and finally a new mandate for data web by which i mean and i've lived this as a manager in the commission you need to put the this is for marry you need to put the data sources and then management and the tools and",
+              "ITN": "risk impact visions where the human factor is here studied not just so that you can do more better communication of your risk assessment which I know EFSA is already working hard on but as a factor in risks and finally a new mandate for data web by which I mean and I've lived this as a manager in the Commission you need to put the this is for marry you need to put the data sources and then management and the tools and",
+              "MaskedITN": "risk impact visions where the human factor is here studied not just so that you can do more better communication of your risk assessment which I know EFSA is already working h*** ** but as a factor in risks and finally a new mandate for data web by which I mean and I've lived this as a manager in the Commission you need to put the this is for marry you need to put the data sources and then management and the tools and",
+              "Display": "Risk impact visions where the human factor is here, studied not just so that you can do more better communication of your risk assessment, which I know EFSA is already working h*** ** but as a factor in risks and finally a new mandate for data web by which I mean, and I've lived this as a manager in the Commission. You need to put the This is for marry you need to put the data sources and then management and the tools and.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 13270000000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.916854,
+              "Lexical": "higher and more central in the strategy of the organization if you don't have board level ownership for this change people in a position like mary's will struggle joining up with the people who run the database will be a struggle if on the other hand you put it right at the middle and you make sure that everybody on the supervisory board in the scientific committee and the executive committee actually gets what's going on and does some hands on stuff so they go back to primary",
+              "ITN": "higher and more central in the strategy of the organization if you don't have board level ownership for this change people in a position like Mary's will struggle joining up with the people who run the database will be a struggle if on the other hand you put it right at the middle and you make sure that everybody on the supervisory board in the scientific committee and the executive committee actually gets what's going on and does some hands on stuff so they go back to primary",
+              "MaskedITN": "higher and more central in the strategy of the organization if you don't have board level ownership for this change people in a position like Mary's will struggle joining up with the people who run the database will be a struggle if on the other hand you put it right at the middle and you make sure that everybody on the supervisory board in the scientific committee and the executive committee actually gets what's going on and does some hands on stuff so they go back to primary",
+              "Display": "Higher and more central in the strategy of the organization if you don't have board level ownership for this change. People in a position like Mary's will struggle joining up with the people who run the database will be a struggle if on the other hand, you put it right at the middle and you make sure that everybody on the supervisory board in the scientific committee and the executive committee actually gets what's going on and does some hands on stuff, so they go back to primary.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 13578600000,
+          "Duration": 23500000,
+          "NBest": [
+            {
+              "Confidence": 0.886438,
+              "Lexical": "that transforms the way we all think",
+              "ITN": "that transforms the way we all think",
+              "MaskedITN": "that transforms the way we all think",
+              "Display": "That transforms the way we all think.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 13615700000,
+          "Duration": 189500000,
+          "NBest": [
+            {
+              "Confidence": 0.89907,
+              "Lexical": "so future data tools i now have three minutes but this is all right coz the next bit is actually what everybody else who knows about it will talk about i've talked about truth and science i've talked about the broad goals trustworthy process is participation and innovative mindsets the right tools are import",
+              "ITN": "so future data tools I now have 3 minutes but this is all right coz the next bit is actually what everybody else who knows about it will talk about I've talked about truth and science I've talked about the broad goals trustworthy process is participation and innovative mindsets the right tools are import",
+              "MaskedITN": "so future data tools I now have 3 minutes but this is all right coz the next bit is actually what everybody else who knows about it will talk about I've talked about truth and science I've talked about the broad goals trustworthy process is participation and innovative mindsets the right tools are import",
+              "Display": "So future data tools. I now have 3 minutes, but this is all right coz the next bit is actually what everybody else? Who knows about it will talk about. I've talked about truth and science. I've talked about the broad goals trustworthy process is participation and innovative mindsets the right tools are import.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 13861500000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.904662,
+              "Lexical": "and so this is not new but you just have to think of v five so data is in higher volume more variety moving faster than ever before and as a result we have non trivial questions about how we know that this high volume very high speed data is true and we have to get savvy are working out what in this big pandav data is a value for us so my short answer to those five challenges",
+              "ITN": "and so this is not new but you just have to think of v 5 so data is in higher volume more variety moving faster than ever before and as a result we have non trivial questions about how we know that this high volume very high speed data is true and we have to get savvy are working out what in this big pandav data is a value for us so my short answer to those 5 challenges",
+              "MaskedITN": "and so this is not new but you just have to think of v 5 so data is in higher volume more variety moving faster than ever before and as a result we have non trivial questions about how we know that this high volume very high speed data is true and we have to get savvy are working out what in this big pandav data is a value for us so my short answer to those 5 challenges",
+              "Display": "And so this is not new, but you just have to think of V 5. So data is in higher volume more variety moving faster than ever before and as a result, we have non trivial questions about how we know that this high volume very high speed. Data is true and we have to get savvy are working out what in this big Pandav. Data is a value for us, so my short answer to those 5 challenges.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 14169500000,
+          "Duration": 258200000,
+          "NBest": [
+            {
+              "Confidence": 0.901041,
+              "Lexical": "so public cloud whereby i mean actually a located in a trusted public cloud don't fuss about oh it's all secret public data it has to be kept in a server of our own and it has to be an open cloud as far as possible so that is a huge opportunity for the access ability of data sets and i'm not talking about i p i'm talking just about making everything easier to connect",
+              "ITN": "so public cloud whereby I mean actually a located in a trusted public cloud don't fuss about Oh it's all secret public data it has to be kept in a server of our own and it has to be an open cloud as far as possible so that is a huge opportunity for the access ability of data sets and I'm not talking about IPI'm talking just about making everything easier to connect",
+              "MaskedITN": "so public cloud whereby I mean actually a located in a trusted public cloud don't fuss about Oh it's all secret public data it has to be kept in a server of our own and it has to be an open cloud as far as possible so that is a huge opportunity for the access ability of data sets and I'm not talking about IPI'm talking just about making everything easier to connect",
+              "Display": "So public cloud whereby I mean, actually a located in a trusted public cloud don't fuss about Oh. It's all secret public data. It has to be kept in a server of our own and it has to be an open cloud as far as possible so that is a huge opportunity for the access ability of data sets and I'm not talking about. IPI'm talking just about making everything easier to connect.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 14436800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.900716,
+              "Lexical": "when you need skills and an investment program on ai and neural learning and you will need to work this is with the risk managers on what i call a five g internet of food and you need experiments and then if you want to know about voracity you need cyber security all the way down the chain that's something that has to be co created in the food chain and not built in silos between different factories and different inspectorates and different laborat",
+              "ITN": "when you need skills and an investment program on ai and neural learning and you will need to work this is with the risk managers on what I call a 5 G internet of food and you need experiments and then if you want to know about voracity you need cyber security all the way down the chain that's something that has to be Co created in the food chain and not built in silos between different factories and different inspectorates and different laborat",
+              "MaskedITN": "when you need skills and an investment program on ai and neural learning and you will need to work this is with the risk managers on what I call a 5 G internet of food and you need experiments and then if you want to know about voracity you need cyber security all the way down the chain that's something that has to be Co created in the food chain and not built in silos between different factories and different inspectorates and different laborat",
+              "Display": "When you need skills and an investment program on ai and Neural Learning and you will need to work. This is with the risk managers on what I call a 5 G. Internet of food and you need experiments and then if you want to know about Voracity. You need cyber security all the way down the chain. That's something that has to be Co created in the food chain and not built in silos between different factories and different inspectorates and different laborat.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 14745600000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.888068,
+              "Lexical": "you could probably think more together about block chain the walmart sunless lays of this world are thinking about it but typically the commission and efsa and the national reference laboratories not yet so distributed ledger technology then you need audit bolts people fret about if all the data is moving fast how do we know whether it's being corrupted if on the one hand you have the unfall sophia bowl record of who did what which is block chain",
+              "ITN": "you could probably think more together about block chain the Walmart sunless lays of this world are thinking about it but typically the Commission and EFSA and the national reference laboratories not yet so distributed Ledger technology then you need audit bolts people fret about if all the data is moving fast how do we know whether it's being corrupted if on the one hand you have the unfall Sophia bowl record of who did what which is block chain",
+              "MaskedITN": "you could probably think more together about block chain the Walmart sunless lays of this world are thinking about it but typically the Commission and EFSA and the national reference laboratories not yet so distributed Ledger technology then you need audit bolts people fret about if all the data is moving fast how do we know whether it's being corrupted if on the one hand you have the unfall Sophia bowl record of who did what which is block chain",
+              "Display": "You could probably think more together about block chain. The Walmart sunless lays of this world are thinking about it, but typically the Commission and EFSA and the National Reference Laboratories. Not yet so distributed Ledger technology. Then you need audit bolts. People fret about if all the data is moving fast. How do we know whether it's being corrupted if on the one hand, you have the Unfall Sophia Bowl record of who did what which is block chain.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 15053600000,
+          "Duration": 276200000,
+          "NBest": [
+            {
+              "Confidence": 0.881804,
+              "Lexical": "algorithms not just to analyse the data to analyse whether funny movements are taking place with the date of the way that your bank keeps you safe from fraud that helps and then on value value is based on values not on what individual risk management committees have said or not only and so bring in the citizens all the time and who does what when so when you",
+              "ITN": "algorithms not just to analyse the data to analyse whether funny movements are taking place with the date of the way that your bank keeps you safe from fraud that helps and then on value value is based on values not on what individual risk management committees have said or not only and so bring in the citizens all the time and who does what when so when you",
+              "MaskedITN": "algorithms not just to analyse the data to analyse whether funny movements are taking place with the date of the way that your bank keeps you safe from fraud that helps and then on value value is based on values not on what individual risk management committees have said or not only and so bring in the citizens all the time and who does what when so when you",
+              "Display": "Algorithms not just to analyse the data to analyse whether funny movements are taking place with the date of the way that your bank keeps you safe from fraud that helps and then on value value is based on values, not on what individual risk management committees have said or not only and so bring in the citizens all the time and who does what? When so when you.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 15348900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.919606,
+              "Lexical": "if that's what you need you need more money so the digital program the structural funds research and innovation not you will notice the direct sources of funding for food chain regulation those are the three crucial elements currently in play in the budget debate where the food community needs to get behind them and you also need but i can't deliver that we can only agree on it i hope that we need political leadership committed to science you should be helping",
+              "ITN": "if that's what you need you need more money so the digital program the structural funds research and innovation not you will notice the direct sources of funding for food chain regulation those are the 3 crucial elements currently in play in the budget debate where the food community needs to get behind them and you also need but I can't deliver that we can only agree on it I hope that we need political leadership committed to science you should be helping",
+              "MaskedITN": "if that's what you need you need more money so the digital program the structural funds research and innovation not you will notice the direct sources of funding for food chain regulation those are the 3 crucial elements currently in play in the budget debate where the food community needs to get behind them and you also need but I can't deliver that we can only agree on it I hope that we need political leadership committed to science you should be helping",
+              "Display": "If that's what you need you need more money so the digital program. The structural funds research and innovation. Not you will notice the direct sources of funding for food chain regulation. Those are the 3 crucial elements currently in play in the budget debate where the food community needs to get behind them and you also need but I can't deliver that we can only agree on it. I hope that we need political leadership committed to science you should be helping.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 15656900000,
+          "Duration": 41100000,
+          "NBest": [
+            {
+              "Confidence": 0.905381,
+              "Lexical": "thinking trying experimenting and let me conclude",
+              "ITN": "thinking trying experimenting and let me conclude",
+              "MaskedITN": "thinking trying experimenting and let me conclude",
+              "Display": "Thinking trying experimenting and let me conclude.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 15713500000,
+          "Duration": 10600000,
+          "NBest": [
+            {
+              "Confidence": 0.880947,
+              "Lexical": "this is an opportunity",
+              "ITN": "this is an opportunity",
+              "MaskedITN": "this is an opportunity",
+              "Display": "This is an opportunity.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 15735100000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.894986,
+              "Lexical": "i think it is a huge opportunity if this community reaches out to grasp it as schwab said in his book as i've been saying the opportunities of the current period of change and not being grassed by statesman and leaders so we're not waiting for european council to tell us what to do and so we can do it take the paradigm of innovation take the paradigm of sustainability and do it in whichever committee or group or lab u r design",
+              "ITN": "I think it is a huge opportunity if this community reaches out to grasp it as Schwab said in his book as I've been saying the opportunities of the current period of change and not being grassed by statesman and leaders so we're not waiting for European Council to tell us what to do and so we can do it take the paradigm of innovation take the paradigm of sustainability and do it in whichever committee or group or lab UR design",
+              "MaskedITN": "I think it is a huge opportunity if this community reaches out to grasp it as Schwab said in his book as I've been saying the opportunities of the current period of change and not being grassed by statesman and leaders so we're not waiting for European Council to tell us what to do and so we can do it take the paradigm of innovation take the paradigm of sustainability and do it in whichever committee or group or lab UR design",
+              "Display": "I think it is a huge opportunity. If this community reaches out to grasp it as Schwab said in his book. As I've been saying the opportunities of the current period of change and not being grassed by statesman and leaders. So we're not waiting for European Council to tell us what to do and so we can do it take the paradigm of innovation take the paradigm of sustainability and do it in whichever committee or group or lab UR design.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 16054700000,
+          "Duration": 245900000,
+          "NBest": [
+            {
+              "Confidence": 0.911333,
+              "Lexical": "design with the thought that risk management and risk is evolving and innovating as well work more with your ecosystem experiment with data futures and help in the current you change cycle by which i mean the campaigns that will begin in the autumn to speak up for science and truth than to speak up for funding and leadership thank you very much",
+              "ITN": "design with the thought that risk management and risk is evolving and innovating as well work more with your ecosystem experiment with data futures and help in the current you change cycle by which I mean the campaigns that will begin in the autumn to speak up for science and truth than to speak up for funding and leadership thank you very much",
+              "MaskedITN": "design with the thought that risk management and risk is evolving and innovating as well work more with your ecosystem experiment with data futures and help in the current you change cycle by which I mean the campaigns that will begin in the autumn to speak up for science and truth than to speak up for funding and leadership thank you very much",
+              "Display": "Design with the thought that risk management and risk is evolving and Innovating as well work more with your ecosystem experiment with data futures and help in the current you change cycle by which I mean, the campaigns that will begin in the autumn to speak up for Science and truth than to speak up for funding and leadership. Thank you very much.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 16431700000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.893202,
+              "Lexical": "thank you very much coverage for that very insightful opening to the session i enjoyed it very much and i very much like one of your last slides where you talked about and you data mandate for efsa and which is not a hundred miles away from what they were thinking anyway so i would like to first invite the audience to ask property question on his talk first we will",
+              "ITN": "thank you very much coverage for that very insightful opening to the session I enjoyed it very much and I very much like one of your last slides where you talked about and you data mandate for EFSA and which is not 100 miles away from what they were thinking anyway so I would like to first invite the audience to ask property question on his talk first we will",
+              "MaskedITN": "thank you very much coverage for that very insightful opening to the session I enjoyed it very much and I very much like one of your last slides where you talked about and you data mandate for EFSA and which is not 100 miles away from what they were thinking anyway so I would like to first invite the audience to ask property question on his talk first we will",
+              "Display": "Thank you very much coverage for that very insightful opening to the session. I enjoyed it very much and I very much like one of your last slides where you talked about and you data mandate for EFSA and which is not 100 miles away from what they were thinking anyway. So I would like to first invite the audience to ask property question on his talk first we will.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 16739700000,
+          "Duration": 79000000,
+          "NBest": [
+            {
+              "Confidence": 0.918748,
+              "Lexical": "audience and then we will see if there's any questions on the app there is some coming in already but first from the people who were physically here today",
+              "ITN": "audience and then we will see if there's any questions on the app there is some coming in already but first from the people who were physically here today",
+              "MaskedITN": "audience and then we will see if there's any questions on the app there is some coming in already but first from the people who were physically here today",
+              "Display": "Audience and then we will see if there's any questions on the app. There is some coming in already. But first from the people who were physically here today.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 16854300000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.866501,
+              "Lexical": "good morning john o'brien the food observatory uk i was glad you mentioned you do attention to the aviation example and i think i've often thought that in the food industry we don't use black box thinking enough we don't ask the question about when right and water in when wrong so the sharing of know how from enterprise to enterprise i think has not been what it should have been how would you foresee this working in practice",
+              "ITN": "good morning John O'Brien the food Observatory UK I was glad you mentioned you do attention to the aviation example and I think I've often thought that in the food industry we don't use black box thinking enough we don't ask the question about when right and water in when wrong so the sharing of know how from enterprise to enterprise I think has not been what it should have been how would you foresee this working in practice",
+              "MaskedITN": "good morning John O'Brien the food Observatory UK I was glad you mentioned you do attention to the aviation example and I think I've often thought that in the food industry we don't use black box thinking enough we don't ask the question about when right and water in when wrong so the sharing of know how from enterprise to enterprise I think has not been what it should have been how would you foresee this working in practice",
+              "Display": "Good morning, John O'Brien, the Food Observatory, UK I was glad you mentioned you do attention to the aviation example and I think I've often thought that in the food industry. We don't use black box thinking enough. We don't ask the question about when right and water in when wrong, so the sharing of know how from enterprise to enterprise. I think has not been what it should have been how would you foresee this working in practice?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 17162300000,
+          "Duration": 37200000,
+          "NBest": [
+            {
+              "Confidence": 0.897792,
+              "Lexical": "and what role would you say efsa should have in the process",
+              "ITN": "and what role would you say EFSA should have in the process",
+              "MaskedITN": "and what role would you say EFSA should have in the process",
+              "Display": "And what role would you say EFSA should have in the process?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 17211900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.890546,
+              "Lexical": "so among the slides i didn't really pause on the stuff around ethical business regulation and practice is basically saying if you move in the food sector as we have in aviation from a blame two a no blame culture you're looking to learn faster in real time the lessons from each hiccup and therefore i think for the efsa context you need to build data sets and process is which in a",
+              "ITN": "so among the slides I didn't really pause on the stuff around ethical business regulation and practice is basically saying if you move in the food sector as we have in aviation from a blame 2 a no blame culture you're looking to learn faster in real time the lessons from each hiccup and therefore I think for the EFSA context you need to build data sets and process is which in a",
+              "MaskedITN": "so among the slides I didn't really pause on the stuff around ethical business regulation and practice is basically saying if you move in the food sector as we have in aviation from a blame 2 a no blame culture you're looking to learn faster in real time the lessons from each hiccup and therefore I think for the EFSA context you need to build data sets and process is which in a",
+              "Display": "So among the slides I didn't really pause on the stuff around ethical business regulation and practice is basically saying if you move in the food sector as we have in aviation from a blame 2. A no blame culture. You're looking to learn faster in real time, the lessons from each hiccup and therefore. I think for the EFSA context. You need to build data sets and process is which in A.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 17519900000,
+          "Duration": 47600000,
+          "NBest": [
+            {
+              "Confidence": 0.882712,
+              "Lexical": "time data from within the actors in an incident to be",
+              "ITN": "time data from within the actors in an incident to be",
+              "MaskedITN": "time data from within the actors in an incident to be",
+              "Display": "Time data from within the actors in an incident to be.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 17577800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.907346,
+              "Lexical": "assembled and shared as a basis for learning that would be the first thing the second and the talk about epidemiology yesterday in this room touched on it is that the opportunity exists for risk assessment and risk management to better trace back the real causes of scattered incidents and i understand though it's anecdotal that the list eerier management in europe recently has benefited directly from that gino type",
+              "ITN": "assembled and shared as a basis for learning that would be the first thing the second and the talk about epidemiology yesterday in this room touched on it is that the opportunity exists for risk assessment and risk management to better trace back the real causes of scattered incidents and I understand though it's anecdotal that the list eerier management in Europe recently has benefited directly from that Gino type",
+              "MaskedITN": "assembled and shared as a basis for learning that would be the first thing the second and the talk about epidemiology yesterday in this room touched on it is that the opportunity exists for risk assessment and risk management to better trace back the real causes of scattered incidents and I understand though it's anecdotal that the list eerier management in Europe recently has benefited directly from that Gino type",
+              "Display": "Assembled and shared as a basis for learning that would be the first thing the second and the talk about epidemiology yesterday. In this room touched on it is that the opportunity exists for risk assessment and risk management to better trace back the real causes of scattered incidents and I understand, though it's anecdotal that the list. Eerier management in Europe recently has benefited directly from that Gino type.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 17885800000,
+          "Duration": 168000000,
+          "NBest": [
+            {
+              "Confidence": 0.880265,
+              "Lexical": "apparently unconnected incidents over a period of time to be put together as a set and to point very directly back to the source of the problem so there you have two different lessons i think firstly if we put enough",
+              "ITN": "apparently unconnected incidents over a period of time to be put together as a set and to point very directly back to the source of the problem so there you have 2 different lessons I think firstly if we put enough",
+              "MaskedITN": "apparently unconnected incidents over a period of time to be put together as a set and to point very directly back to the source of the problem so there you have 2 different lessons I think firstly if we put enough",
+              "Display": "Apparently unconnected incidents over a period of time to be put together as a set and to point very directly back to the source of the problem, so there, you have 2 different lessons. I think firstly if we put enough.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18067600000,
+          "Duration": 153500000,
+          "NBest": [
+            {
+              "Confidence": 0.879647,
+              "Lexical": "we put enough money in to having that capacity so whole genome analysis we can actually save lives quicker and manage risks easier and then the implication is what does that do to the",
+              "ITN": "we put enough money in to having that capacity so whole genome analysis we can actually save lives quicker and manage risks easier and then the implication is what does that do to the",
+              "MaskedITN": "we put enough money in to having that capacity so whole genome analysis we can actually save lives quicker and manage risks easier and then the implication is what does that do to the",
+              "Display": "We put enough money in to having that capacity so whole genome analysis. We can actually save lives quicker and manage risks easier and then the implication is what does that do to the?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18239500000,
+          "Duration": 292600000,
+          "NBest": [
+            {
+              "Confidence": 0.902519,
+              "Lexical": "framing for liability and what does that do to the relative risks of outbreaks in fields that we can then manage better compared to other things so i think that the first issue which probably isn't on anybody's agenda is if we wanted to do no blame learning what data sets and what analytical tools would we need and the second which is a much more policy and regulatory question is if we have such tools does that change the relative urgency and importance of things that efsa is doing",
+              "ITN": "framing for liability and what does that do to the relative risks of outbreaks in fields that we can then manage better compared to other things so I think that the first issue which probably isn't on anybody's agenda is if we wanted to do no blame learning what data sets and what analytical tools would we need and the second which is a much more policy and regulatory question is if we have such tools does that change the relative urgency and importance of things that EFSA is doing",
+              "MaskedITN": "framing for liability and what does that do to the relative risks of outbreaks in fields that we can then manage better compared to other things so I think that the first issue which probably isn't on anybody's agenda is if we wanted to do no blame learning what data sets and what analytical tools would we need and the second which is a much more policy and regulatory question is if we have such tools does that change the relative urgency and importance of things that EFSA is doing",
+              "Display": "Framing for liability and what does that do to the relative risks of outbreaks in fields that we can then manage better compared to other things, so I think that the first issue, which probably isn't on anybody's agenda is if we wanted to do. No blame learning? What data sets and what analytical tools would we need, and the second which is a much more policy and regulatory question is if we have such tools does that change the relative urgency and importance of things that EFSA is doing.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18583100000,
+          "Duration": 16300000,
+          "NBest": [
+            {
+              "Confidence": 0.938596,
+              "Lexical": "anymore questions from the audience",
+              "ITN": "anymore questions from the audience",
+              "MaskedITN": "anymore questions from the audience",
+              "Display": "Anymore questions from the audience.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18625800000,
+          "Duration": 27600000,
+          "NBest": [
+            {
+              "Confidence": 0.899489,
+              "Lexical": "o k then we moved to the questions from the app",
+              "ITN": "OK then we moved to the questions from the app",
+              "MaskedITN": "OK then we moved to the questions from the app",
+              "Display": "OK then we moved to the questions from the app.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18664000000,
+          "Duration": 14200000,
+          "NBest": [
+            {
+              "Confidence": 0.619517,
+              "Lexical": "here can we get",
+              "ITN": "here can we get",
+              "MaskedITN": "here can we get",
+              "Display": "Here can, we get.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18728300000,
+          "Duration": 3300000,
+          "NBest": [
+            {
+              "Confidence": 0.596864,
+              "Lexical": "okay",
+              "ITN": "okay",
+              "MaskedITN": "okay",
+              "Display": "Okay.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18744800000,
+          "Duration": 93400000,
+          "NBest": [
+            {
+              "Confidence": 0.903921,
+              "Lexical": "the first one that came in is from andrea's folks how do you think data variety and artificial intelligence on your learning belong together",
+              "ITN": "the first one that came in is from andrea's folks how do you think data variety and artificial intelligence on your learning belong together",
+              "MaskedITN": "the first one that came in is from andrea's folks how do you think data variety and artificial intelligence on your learning belong together",
+              "Display": "The first one, that came in is from Andrea's folks. How do you think data variety and artificial intelligence on your learning belong together?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18859000000,
+          "Duration": 3200000,
+          "NBest": [
+            {
+              "Confidence": 0.344811,
+              "Lexical": "so",
+              "ITN": "so",
+              "MaskedITN": "so",
+              "Display": "So.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 18872900000,
+          "Duration": 280700000,
+          "NBest": [
+            {
+              "Confidence": 0.913374,
+              "Lexical": "so i am freed from knowledge in this field so you have a sort of generalists view my sense is that the next big thing is going to be that the frontier developments in learning that you can already see in the public for example in microsofts neural learning machine translation will enable also the exploitation of",
+              "ITN": "so I am freed from knowledge in this field so you have a sort of generalists view my sense is that the next big thing is going to be that the frontier developments in learning that you can already see in the public for example in microsofts neural learning machine translation will enable also the exploitation of",
+              "MaskedITN": "so I am freed from knowledge in this field so you have a sort of generalists view my sense is that the next big thing is going to be that the frontier developments in learning that you can already see in the public for example in microsofts neural learning machine translation will enable also the exploitation of",
+              "Display": "So I am freed from knowledge in this field, so you have a sort of Generalists. View my sense is that the next big thing is going to be that the frontier developments in learning that you can already see in the public for example, in Microsofts Neural Learning Machine translation will enable also the exploitation of.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 19162900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.886122,
+              "Lexical": "incoherent data sets with greater value to decision makers in the future than in the past so i think what i'm saying is let's make an act of faith any as einstein said if you knew the results of innovation it wouldn't be innovation i think you need this would be in the research in the digital program to throw a lot of money at seeing what happens if you say to the data and evidence people you know what we're not going to build a coherent data set and then spend ten years",
+              "ITN": "incoherent data sets with greater value to decision makers in the future than in the past so I think what I'm saying is let's make an act of faith any as Einstein said if you knew the results of innovation it wouldn't be innovation I think you need this would be in the research in the digital program to throw a lot of money at seeing what happens if you say to the data and evidence people you know what we're not going to build a coherent data set and then spend 10 years",
+              "MaskedITN": "incoherent data sets with greater value to decision makers in the future than in the past so I think what I'm saying is let's make an act of faith any as Einstein said if you knew the results of innovation it wouldn't be innovation I think you need this would be in the research in the digital program to throw a lot of money at seeing what happens if you say to the data and evidence people you know what we're not going to build a coherent data set and then spend 10 years",
+              "Display": "Incoherent data sets with greater value to decision makers in the future than in the past, so I think what I'm saying is let's make an act of faith any as Einstein said. If you knew the results of innovation. It wouldn't be innovation. I think you need this would be in the research in the digital program to throw a lot of money at seeing what happens if you say to the data and evidence. People you know what? We're not going to build a coherent data set and then spend 10 years.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 19470900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.878566,
+              "Lexical": "and we're going to see what we can do with it and the answer may be that you have a hype cycle as we did on google's flu maps where some people thought great we now know everything and then you work out there are confounding factors and it's maybe not as true as you thought but actually we are learning to do that better so the answer is asking the people who do know firstly to analyse that vision soon if it's true but i think it's true enough to be worth more",
+              "ITN": "and we're going to see what we can do with it and the answer may be that you have a hype cycle as we did on Google's flu maps where some people thought great we now know everything and then you work out there are confounding factors and it's maybe not as true as you thought but actually we are learning to do that better so the answer is asking the people who do know firstly to analyse that vision soon if it's true but I think it's true enough to be worth more",
+              "MaskedITN": "and we're going to see what we can do with it and the answer may be that you have a hype cycle as we did on Google's flu maps where some people thought great we now know everything and then you work out there are confounding factors and it's maybe not as true as you thought but actually we are learning to do that better so the answer is asking the people who do know firstly to analyse that vision soon if it's true but I think it's true enough to be worth more",
+              "Display": "And we're going to see what we can do with it and the answer may be that you have a hype cycle as we did on Google's flu maps where some people thought great we now know everything and then you work out there are confounding factors and it's maybe not as true as you thought but actually we are learning to do that better, so the answer is asking the people who do know firstly to analyse that vision soon. If it's true but I think it's true enough to be worth more.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 19778900000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.896888,
+              "Lexical": "than we do at the moment and the tragedy in europe is that if it's research we say send it back to the universities when we know we're still not very good at saying in the research programming you know what we're going to put water money out there for risk assessment institutions to feed off in order to do data innovation and wouldn't it be great if the digital program and horizon europe when they came out of the legislature in two years time said here's a lot of money for data innovation",
+              "ITN": "than we do at the moment and the tragedy in Europe is that if it's research we say send it back to the universities when we know we're still not very good at saying in the research programming you know what we're going to put water money out there for risk assessment institutions to feed off in order to do data innovation and wouldn't it be great if the digital program and horizon Europe when they came out of the legislature in 2 years time said here's a lot of money for data innovation",
+              "MaskedITN": "than we do at the moment and the tragedy in Europe is that if it's research we say send it back to the universities when we know we're still not very good at saying in the research programming you know what we're going to put water money out there for risk assessment institutions to feed off in order to do data innovation and wouldn't it be great if the digital program and horizon Europe when they came out of the legislature in 2 years time said here's a lot of money for data innovation",
+              "Display": "Than we do at the moment and the tragedy in Europe is that if it's research. We say send it back to the universities. When we know we're still not very good at saying in the research programming. You know what we're going to put water money out there for risk assessment institutions to feed off in order to do data innovation and wouldn't it be great if the digital program and Horizon Europe when they came out of the Legislature in 2 years. Time said here's a lot of money for data innovation.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20086900000,
+          "Duration": 70700000,
+          "NBest": [
+            {
+              "Confidence": 0.737545,
+              "Lexical": "regular and then you could sort of do that work with of course all the other state",
+              "ITN": "regular and then you could sort of do that work with of course all the other state",
+              "MaskedITN": "regular and then you could sort of do that work with of course all the other state",
+              "Display": "Regular and then you could sort of do that work with of course, all the other state.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20185800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.897924,
+              "Lexical": "okay thank you then we have two more questions which lets try to answer the second one is from akash coming from hungry many of those objectives and you mondays would need to blur the line between risk assessment and management is it possible that you level so i spent most of my professional career as a as a full time eu officials so yes it's possible everything is possible if you get the politics right",
+              "ITN": "okay thank you then we have 2 more questions which lets try to answer the second one is from akash coming from hungry many of those objectives and you Mondays would need to blur the line between risk assessment and management is it possible that you level so I spent most of my professional career as a as a full time EU officials so yes it's possible everything is possible if you get the politics right",
+              "MaskedITN": "okay thank you then we have 2 more questions which lets try to answer the second one is from akash coming from hungry many of those objectives and you Mondays would need to blur the line between risk assessment and management is it possible that you level so I spent most of my professional career as a as a full time EU officials so yes it's possible everything is possible if you get the politics right",
+              "Display": "Okay, thank you then we have 2 more questions, which lets try to answer the second. One is from Akash. Coming from hungry. Many of those objectives and you Mondays would need to blur. The line between risk assessment and management is it possible that you level. So I spent most of my professional career as a as a full time EU officials. So yes, it's possible everything is possible if you get the politics right.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20493800000,
+          "Duration": 247000000,
+          "NBest": [
+            {
+              "Confidence": 0.900728,
+              "Lexical": "we are all voting citizens i won't be after the twenty ninth of march so get out there and vote and then it can happen and it's not just possible it's essential because as i said in my remarks although it was just to throw away line this distinction doesn't make any sense in my opinion i think that it makes sense in a very in theory but in practice if were trying to say how to people do stuff",
+              "ITN": "we are all voting citizens I won't be after the 29th of March so get out there and vote and then it can happen and it's not just possible it's essential because as I said in my remarks although it was just to throw away line this distinction doesn't make any sense in my opinion I think that it makes sense in a very in theory but in practice if were trying to say how to people do stuff",
+              "MaskedITN": "we are all voting citizens I won't be after the 29th of March so get out there and vote and then it can happen and it's not just possible it's essential because as I said in my remarks although it was just to throw away line this distinction doesn't make any sense in my opinion I think that it makes sense in a very in theory but in practice if were trying to say how to people do stuff",
+              "Display": "We are all voting citizens. I won't be after the 29th of March, so get out there and vote and then it can happen and it's not just possible. It's essential because as I said in my remarks, although it was just to throw away line. This distinction doesn't make any sense in my opinion. I think that it makes sense in a very in theory, but in practice if were trying to say how to people do stuff.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20751200000,
+          "Duration": 134600000,
+          "NBest": [
+            {
+              "Confidence": 0.88186,
+              "Lexical": "life is a blur between assessment and management so we need to have at the least specialized risk assessment which takes as it per view all the things that drive risk",
+              "ITN": "life is a blur between assessment and management so we need to have at the least specialized risk assessment which takes as it per view all the things that drive risk",
+              "MaskedITN": "life is a blur between assessment and management so we need to have at the least specialized risk assessment which takes as it per view all the things that drive risk",
+              "Display": "Life is a blur between assessment and management, so we need to have at the least specialized risk assessment, which takes as it per view all the things that drive risk.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20895500000,
+          "Duration": 35200000,
+          "NBest": [
+            {
+              "Confidence": 0.920126,
+              "Lexical": "and a lot of the things that drive risk in the real world at downstream",
+              "ITN": "and a lot of the things that drive risk in the real world at downstream",
+              "MaskedITN": "and a lot of the things that drive risk in the real world at downstream",
+              "Display": "And a lot of the things that drive risk in the real world at downstream.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 20941700000,
+          "Duration": 261300000,
+          "NBest": [
+            {
+              "Confidence": 0.897175,
+              "Lexical": "and so the risk assessment of risk management techniques the risk assessment of the human factor you have to blend back together and the way to do it is not first to go to the next health commissioner or vice president by the way there should be a vice president for health and well being but to start doing it as an experiment and show that its safe and then go to the commissioner and say you know what we can make you look good if you make this the new nor",
+              "ITN": "and so the risk assessment of risk management techniques the risk assessment of the human factor you have to blend back together and the way to do it is not first to go to the next health commissioner or vice president by the way there should be a vice president for health and well being but to start doing it as an experiment and show that its safe and then go to the commissioner and say you know what we can make you look good if you make this the new nor",
+              "MaskedITN": "and so the risk assessment of risk management techniques the risk assessment of the human factor you have to blend back together and the way to do it is not first to go to the next health commissioner or vice president by the way there should be a vice president for health and well being but to start doing it as an experiment and show that its safe and then go to the commissioner and say you know what we can make you look good if you make this the new nor",
+              "Display": "And so the risk assessment of risk management techniques. The risk assessment of the human factor. You have to blend back together and the way to do it is not first to go to the next health commissioner or vice president by the way there should be a vice president for Health and well being but to start doing it as an experiment and show that its safe and then go to the commissioner and say you know what we can make you look good if you make this the new nor.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 21230600000,
+          "Duration": 167000000,
+          "NBest": [
+            {
+              "Confidence": 0.891793,
+              "Lexical": "and then maybe we'll check one last question from marty okay open data and crowd sourcing of skills to foster efsa agreed however i don't hear anything about the role of the european risk assessment community the role of member states",
+              "ITN": "and then maybe we'll check one last question from Marty okay open data and crowd sourcing of skills to foster EFSA agreed however I don't hear anything about the role of the European risk assessment community the role of member states",
+              "MaskedITN": "and then maybe we'll check one last question from Marty okay open data and crowd sourcing of skills to foster EFSA agreed however I don't hear anything about the role of the European risk assessment community the role of member states",
+              "Display": "And then maybe we'll check one last question from Marty okay. Open data and crowd sourcing of skills to foster EFSA agreed. However, I don't hear anything about the role of the European risk assessment community, the role of member states.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 21406800000,
+          "Duration": 29200000,
+          "NBest": [
+            {
+              "Confidence": 0.864406,
+              "Lexical": "should we all gather forces into a single point",
+              "ITN": "should we all gather forces into a single point",
+              "MaskedITN": "should we all gather forces into a single point",
+              "Display": "Should we all gather forces into a single point?",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 21453800000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.872479,
+              "Lexical": "so so so there was a point right at the beginning where i think we point three on my slides or it says only connect there's a long story but so only connect is the conclusion of a novel written debate over a hundred years ago it's a bit the gattopardo of english literature and basically it is the assertion that the old in the edwardian era in england the old social",
+              "ITN": "so so so there was a point right at the beginning where I think we .3 on my slides or it says Only Connect there's a long story but so Only Connect is the conclusion of a novel written debate over 100 years ago it's a bit the gattopardo of English literature and basically it is the assertion that the old in the Edwardian era in England the old social",
+              "MaskedITN": "so so so there was a point right at the beginning where I think we .3 on my slides or it says Only Connect there's a long story but so Only Connect is the conclusion of a novel written debate over 100 years ago it's a bit the gattopardo of English literature and basically it is the assertion that the old in the Edwardian era in England the old social",
+              "Display": "So so, so there was a point right at the beginning, where I think we .3 on my slides or it says Only Connect there's a long story. But so Only Connect is the conclusion of a novel written debate over 100 years ago. It's a bit the gattopardo of English literature and basically it is the assertion that the old in the Edwardian era in England, the old social.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 21761800000,
+          "Duration": 99000000,
+          "NBest": [
+            {
+              "Confidence": 0.821484,
+              "Lexical": "the old human have to be broken down if human society was to succeed and about the same time you know the first world",
+              "ITN": "the old human have to be broken down if human society was to succeed and about the same time you know the first world",
+              "MaskedITN": "the old human have to be broken down if human society was to succeed and about the same time you know the first world",
+              "Display": "The old human have to be broken down if human society was to succeed and about the same time you know the first world.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 21869900000,
+          "Duration": 141400000,
+          "NBest": [
+            {
+              "Confidence": 0.897516,
+              "Lexical": "the depression the rise of communism et cetera so this was also the slogan which i came doing my professional career that whatever you think is your ecosystem in the twenty first century it's much bigger",
+              "ITN": "the depression the rise of communism et cetera so this was also the slogan which I came doing my professional career that whatever you think is your ecosystem in the 21st century it's much bigger",
+              "MaskedITN": "the depression the rise of communism et cetera so this was also the slogan which I came doing my professional career that whatever you think is your ecosystem in the 21st century it's much bigger",
+              "Display": "The Depression, the rise of communism et cetera so this was also the slogan, which I came doing my professional career that whatever you think is your ecosystem in the 21st century it's much bigger.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22020600000,
+          "Duration": 213500000,
+          "NBest": [
+            {
+              "Confidence": 0.906852,
+              "Lexical": "the good news is that in the data rage it can be global and so i think what i'm very strongly advocating is everybody has a role but everybody has to be working together because the people who can help you with your role and not just those who are constitutionally either you're stakeholders or your government",
+              "ITN": "the good news is that in the data rage it can be global and so I think what I'm very strongly advocating is everybody has a role but everybody has to be working together because the people who can help you with your role and not just those who are constitutionally either you're stakeholders or your government",
+              "MaskedITN": "the good news is that in the data rage it can be global and so I think what I'm very strongly advocating is everybody has a role but everybody has to be working together because the people who can help you with your role and not just those who are constitutionally either you're stakeholders or your government",
+              "Display": "The good news is that in the data rage, it can be global and so I think what I'm very strongly advocating is everybody has a role, but everybody has to be working together, because the people who can help you with your role and not just those who are constitutionally, either you're stakeholders or your government.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22246100000,
+          "Duration": 230000000,
+          "NBest": [
+            {
+              "Confidence": 0.904108,
+              "Lexical": "you also need to connect up and it's very very true between national authorities local authoritie eu institutions such as efsa and the wider world and i think if you looked over the last fifteen years in efsa what i'm sure you'd find is a very and excessively tidy system which talks a lot about the european institute",
+              "ITN": "you also need to connect up and it's very very true between national authorities local authoritie EU institutions such as EFSA and the wider world and I think if you looked over the last 15 years in EFSA what I'm sure you'd find is a very and excessively tidy system which talks a lot about the European Institute",
+              "MaskedITN": "you also need to connect up and it's very very true between national authorities local authoritie EU institutions such as EFSA and the wider world and I think if you looked over the last 15 years in EFSA what I'm sure you'd find is a very and excessively tidy system which talks a lot about the European Institute",
+              "Display": "You also need to connect up and it's very, very true between national authorities. Local authoritie EU institutions such as EFSA and the wider world and I think if you looked over the last 15 years in EFSA? What I'm sure you'd find is a very and excessively tidy system, which talks a lot about the European Institute.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22485400000,
+          "Duration": 39500000,
+          "NBest": [
+            {
+              "Confidence": 0.679501,
+              "Lexical": "growing these connections almost spontaneous",
+              "ITN": "growing these connections almost spontaneous",
+              "MaskedITN": "growing these connections almost spontaneous",
+              "Display": "Growing these connections almost spontaneous.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22542600000,
+          "Duration": 300000000,
+          "NBest": [
+            {
+              "Confidence": 0.901106,
+              "Lexical": "and what we really need is to put that process on steroids and push it harder and make clear that the mandate there is strong and clear i eat i think it's fair to say when i was the director general in brussels i fought for the empowerment of agencies not only efsa to do this outreach there are those among the institutionalists in the parliament and council and commission who would say that's all very dangerous only",
+              "ITN": "and what we really need is to put that process on steroids and push it harder and make clear that the mandate there is strong and clear I eat I think it's fair to say when I was the director general in Brussels I fought for the empowerment of agencies not only EFSA to do this outreach there are those among the institutionalists in the parliament and council and Commission who would say that's all very dangerous only",
+              "MaskedITN": "and what we really need is to put that process on steroids and push it harder and make clear that the mandate there is strong and clear I eat I think it's fair to say when I was the director general in Brussels I fought for the empowerment of agencies not only EFSA to do this outreach there are those among the institutionalists in the parliament and council and Commission who would say that's all very dangerous only",
+              "Display": "And what we really need is to put that process on steroids and push it harder and make clear that the mandate. There is strong and clear I eat. I think it's fair to say. When I was the director general in Brussels. I fought for the empowerment of agencies not only EFSA to do this outreach. There are those among the institutionalists in the parliament and council and Commission who would say that's all very dangerous only.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22853100000,
+          "Duration": 9100000,
+          "NBest": [
+            {
+              "Confidence": 0.710291,
+              "Lexical": "to the fda",
+              "ITN": "to the FDA",
+              "MaskedITN": "to the FDA",
+              "Display": "To the FDA.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 22873000000,
+          "Duration": 145600000,
+          "NBest": [
+            {
+              "Confidence": 0.87493,
+              "Lexical": "i think it's clearly not true so connect more is definitely i think needed it gets what he's done but it should be done as a must do and not as what some of us do hoping not to be punished",
+              "ITN": "I think it's clearly not true so connect more is definitely I think needed it gets what he's done but it should be done as a must do and not as what some of us do hoping not to be punished",
+              "MaskedITN": "I think it's clearly not true so connect more is definitely I think needed it gets what he's done but it should be done as a must do and not as what some of us do hoping not to be punished",
+              "Display": "I think it's clearly not true so connect more is definitely. I think needed it gets what he's done but it should be done as a must do and not as what some of us do hoping not to be punished.",
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "Offset": 23041200000,
+          "Duration": 158500000,
+          "NBest": [
+            {
+              "Confidence": 0.893328,
+              "Lexical": "thank you very much am unfortunately that's all we have time for today there are more questions coming into the app but i would encourage you to perhaps robert will be happy to take some questions during the coffee break thank you very much",
+              "ITN": "thank you very much am unfortunately that's all we have time for today there are more questions coming into the app but I would encourage you to perhaps Robert will be happy to take some questions during the coffee break thank you very much",
+              "MaskedITN": "thank you very much am unfortunately that's all we have time for today there are more questions coming into the app but I would encourage you to perhaps Robert will be happy to take some questions during the coffee break thank you very much",
+              "Display": "Thank you very much am unfortunately that's all we have time for today. There are more questions coming into the app. But I would encourage you to perhaps Robert will be happy to take some questions during the coffee break. Thank you very much.",
+              "Words": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
